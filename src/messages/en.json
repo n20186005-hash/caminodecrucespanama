@@ -115,19 +115,29 @@
     "tip": "We strongly recommend entering early in the morning for the safest and most immersive adventure."
   },
   "tickets": {
-    "title": "Useful Information",
-    "outdoor": "Entrance Fee",
-    "outdoorPrice": "Entrance fee required",
-    "lighthouse": "Parking Information",
-    "adults": "Park Parking",
-    "adultsPrice": "Parking available at park entrance",
-    "students": "Transportation Tips",
-    "studentsPrice": "Self-driving or joining a tour group recommended",
-    "card": "Visiting Tips",
-    "cardPrice": "Comfortable hiking shoes, mosquito repellent, and sufficient water recommended. You can combine with nearby Panama Canal.",
-    "officialNotice": "For the latest visiting information, please refer to the",
-    "officialNoticeLinkLabel": "Ministry of Environment of Panama Official Website",
-    "officialNoticeLink": "https://miambiente.gob.pa/"
+    "title": "Practical Information & Ticket Guide",
+    "prices": {
+      "title": "🎟️ Ticket Prices (Advance Purchase Required)",
+      "foreigners": "Foreign Adult Tourists",
+      "foreignersPrice": "$5.00 USD",
+      "nationals": "Nationals & Residents",
+      "nationalsPrice": "$3.00 USD",
+      "students": "Students & Retirees",
+      "studentsPrice": "$1.00 USD",
+      "children": "Children under 12",
+      "childrenPrice": "Free"
+    },
+    "booking": {
+      "title": "📱 Booking & Entry Information",
+      "notice": "Important: Cash is usually not accepted at the park entrance. Visitors must book in advance through the ",
+      "linkText": "Ministry of Environment (MiAMBIENTE) Official Booking Site",
+      "linkUrl": "https://miambiente.gob.pa/",
+      "noticeEnd": " to pay online and generate an entry QR code. Rangers at the entrance will scan your QR code."
+    },
+    "facilities": {
+      "title": "🅿️ Parking & Facilities",
+      "desc": "Free open-air parking is available at the park entrance. Because this is a pristine tropical rainforest reserve, there are no kiosks or restaurants inside. Please make sure to bring plenty of drinking water (at least 1.5 liters per person recommended) and energy snacks."
+    }
   },
   "transport": {
     "title": "Transportation",

@@ -115,19 +115,29 @@
     "tip": "Recomendamos encarecidamente ingresar temprano en la mañana para la aventura más segura y profunda."
   },
   "tickets": {
-    "title": "Información Útil",
-    "outdoor": "Tarifa de Entrada",
-    "outdoorPrice": "Se requiere entrada",
-    "lighthouse": "Información de Estacionamiento",
-    "adults": "Estacionamiento del Parque",
-    "adultsPrice": "Estacionamiento disponible en la entrada del parque",
-    "students": "Consejos de Transporte",
-    "studentsPrice": "Se recomienda conducir por cuenta propia o unirse a un grupo turístico",
-    "card": "Consejos de Visita",
-    "cardPrice": "Se recomienda calzado cómodo para caminar, repelente de mosquitos y suficiente agua. Puedes combinar con el Canal de Panamá cercano.",
-    "officialNotice": "Para obtener la información más reciente de visita, consulte el",
-    "officialNoticeLinkLabel": "Sitio Oficial del Ministerio de Ambiente de Panamá",
-    "officialNoticeLink": "https://miambiente.gob.pa/"
+    "title": "Información Práctica y Guía de Boletos",
+    "prices": {
+      "title": "🎟️ Precios de Boletos (Se Requiere Compra Anticipada)",
+      "foreigners": "Turistas Extranjeros",
+      "foreignersPrice": "$5.00 USD",
+      "nationals": "Nacionales y Residentes",
+      "nationalsPrice": "$3.00 USD",
+      "students": "Estudiantes y Jubilados",
+      "studentsPrice": "$1.00 USD",
+      "children": "Niños menores de 12 años",
+      "childrenPrice": "Gratis"
+    },
+    "booking": {
+      "title": "📱 Información de Reserva y Entrada",
+      "notice": "Importante: Generalmente no se acepta efectivo en la entrada del parque. Los visitantes deben reservar con anticipación a través del ",
+      "linkText": "Sitio Oficial de Reservas del Ministerio de Ambiente (MiAMBIENTE)",
+      "linkUrl": "https://miambiente.gob.pa/",
+      "noticeEnd": " para pagar en línea y generar un código QR de entrada. Los guardaparques en la entrada escanearán su código QR."
+    },
+    "facilities": {
+      "title": "🅿️ Estacionamiento e Instalaciones",
+      "desc": "Hay estacionamiento gratuito al aire libre disponible en la entrada del parque. Debido a que se trata de una reserva prístina de selva tropical, no hay quioscos ni restaurantes en el interior. Por favor, asegúrese de llevar abundante agua potable (se recomienda al menos 1.5 litros por persona) y bocadillos energéticos."
+    }
   },
   "transport": {
     "title": "Transporte",

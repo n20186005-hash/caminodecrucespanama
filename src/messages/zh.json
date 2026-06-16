@@ -115,19 +115,29 @@
     "tip": "强烈建议上午及早入园，以获得最安全、最深度的探险体验"
   },
   "tickets": {
-    "title": "实用信息",
-    "outdoor": "门票费用",
-    "outdoorPrice": "需购买门票",
-    "lighthouse": "停车信息",
-    "adults": "公园停车",
-    "adultsPrice": "公园入口处有停车场",
-    "students": "交通建议",
-    "studentsPrice": "建议自驾或参加旅行团前往",
-    "card": "游览建议",
-    "cardPrice": "建议穿着舒适的徒步鞋，带上防蚊液和足够的水。可以结合参观巴拿马运河等景点。",
-    "officialNotice": "关于最新的游览信息，请查阅",
-    "officialNoticeLinkLabel": "巴拿马环境部官方网站",
-    "officialNoticeLink": "https://miambiente.gob.pa/"
+    "title": "实用信息与门票指南",
+    "prices": {
+      "title": "🎟️ 门票价格 (需提前购买)",
+      "foreigners": "外国成人游客",
+      "foreignersPrice": "$5.00 USD",
+      "nationals": "本国居民/国民",
+      "nationalsPrice": "$3.00 USD",
+      "students": "学生及退休人员",
+      "studentsPrice": "$1.00 USD",
+      "children": "12岁以下儿童",
+      "childrenPrice": "免费"
+    },
+    "booking": {
+      "title": "📱 购票及入园须知",
+      "notice": "重要提示：公园入口通常不接受现金购票。游客必须在出发前，通过",
+      "linkText": "巴拿马环境部 (MiAMBIENTE) 官方预订网站",
+      "linkUrl": "https://miambiente.gob.pa/",
+      "noticeEnd": "提前在线支付并生成入园二维码。入口处护林员将扫描二维码核销。"
+    },
+    "facilities": {
+      "title": "🅿️ 停车与设施",
+      "desc": "公园入口处设有免费的露天停车场。由于是原始热带雨林保护区，园内没有小卖部或餐厅，请务必自行携带充足的饮用水（建议每人至少 1.5 升）和补充能量的零食。"
+    }
   },
   "transport": {
     "title": "交通方式",

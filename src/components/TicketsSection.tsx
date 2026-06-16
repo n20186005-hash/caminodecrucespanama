@@ -16,106 +16,71 @@ export default function TicketsSection() {
         </h2>
         <div className="w-12 h-0.5 mb-10" style={{ background: 'var(--accent)' }} />
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
-          {/* Outdoor Free */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 mb-8">
+          {/* Prices */}
           <div
-            className="rounded-2xl p-6 sm:p-8"
+            className="rounded-2xl p-6 sm:p-8 flex flex-col h-full"
             style={{ background: 'var(--bg-tertiary)', border: '2px solid var(--accent)' }}
           >
-            <div className="flex items-center gap-3 mb-4">
-              <div
-                className="w-12 h-12 rounded-full flex items-center justify-center"
-                style={{ background: 'var(--accent)' }}
-              >
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
-                  <circle cx="12" cy="12" r="10"/>
-                  <path d="M8 12l2 2 4-4"/>
-                </svg>
-              </div>
-              <div>
-                <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                  {t('outdoor')}
-                </h3>
-                <p className="text-2xl font-bold" style={{ color: 'var(--accent)' }}>{t('outdoorPrice')}</p>
-              </div>
+            <h3 className="font-display text-xl font-semibold mb-6" style={{ color: 'var(--text-primary)' }}>
+              {t('prices.title')}
+            </h3>
+            <div className="space-y-4 flex-grow">
+              <PriceRow label={t('prices.foreigners')} value={t('prices.foreignersPrice')} />
+              <PriceRow label={t('prices.nationals')} value={t('prices.nationalsPrice')} />
+              <PriceRow label={t('prices.students')} value={t('prices.studentsPrice')} />
+              <PriceRow label={t('prices.children')} value={t('prices.childrenPrice')} />
             </div>
           </div>
 
-          {/* Lighthouse */}
+          {/* Booking Info */}
           <div
-            className="rounded-2xl p-6 sm:p-8"
+            className="rounded-2xl p-6 sm:p-8 flex flex-col h-full"
             style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
           >
-            <div className="flex items-center gap-3 mb-4">
-              <div
-                className="w-12 h-12 rounded-full flex items-center justify-center"
-                style={{ background: 'var(--accent)' }}
-              >
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2">
-                  <path d="M12 2L8 22h8L12 2z"/>
-                  <circle cx="12" cy="8" r="3"/>
-                </svg>
-              </div>
-              <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
-                {t('lighthouse')}
-              </h3>
-            </div>
-            <div className="space-y-3">
-              <PriceRow label={t('adults')} value={t('adultsPrice')} />
-              <PriceRow label={t('students')} value={t('studentsPrice')} />
-            </div>
-          </div>
-        </div>
-
-        {/* Travel Pass */}
-        <div
-          className="mt-6 rounded-xl p-5 flex items-start gap-4"
-          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
-        >
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
-            <rect x="2" y="5" width="20" height="14" rx="2"/>
-            <line x1="2" y1="10" x2="22" y2="10"/>
-          </svg>
-          <div>
-            <p className="font-medium" style={{ color: 'var(--text-primary)' }}>{t('card')}</p>
-            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('cardPrice')}</p>
-          </div>
-        </div>
-
-        {/* Official Notice */}
-        {t.has('officialNotice') && (
-          <div className="mt-4 p-4 rounded-xl text-sm flex items-start gap-3" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--text-muted)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
-              <circle cx="12" cy="12" r="10"/>
-              <line x1="12" y1="16" x2="12" y2="12"/>
-              <line x1="12" y1="8" x2="12.01" y2="8"/>
-            </svg>
-            <div>
-              <span style={{ color: 'var(--text-secondary)' }}>{t('officialNotice')} </span>
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('booking.title')}
+            </h3>
+            <p className="leading-relaxed flex-grow" style={{ color: 'var(--text-secondary)' }}>
+              {t('booking.notice')}
               <a 
-                href={t('officialNoticeLink')} 
+                href={t('booking.linkUrl')} 
                 target="_blank" 
                 rel="noopener noreferrer"
-                className="hover:underline font-medium break-all"
+                className="hover:underline font-medium px-1"
                 style={{ color: 'var(--accent)' }}
               >
-                {t('officialNoticeLinkLabel')}
+                {t('booking.linkText')}
               </a>
-            </div>
+              {t('booking.noticeEnd')}
+            </p>
           </div>
-        )}
+        </div>
+
+        {/* Facilities */}
+        <div
+          className="rounded-xl p-6 sm:p-8 flex flex-col sm:flex-row items-start gap-4 sm:gap-6"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
+        >
+          <div className="flex-shrink-0 mt-1">
+            <h3 className="font-display text-xl font-semibold" style={{ color: 'var(--text-primary)' }}>
+              {t('facilities.title')}
+            </h3>
+          </div>
+          <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+            {t('facilities.desc')}
+          </p>
+        </div>
       </div>
     </section>
   );
 }
 
-function PriceRow({ label, value, isFree = false }: { label: string; value: string; isFree?: boolean }) {
+function PriceRow({ label, value }: { label: string; value: string }) {
   return (
-    <div className="flex justify-between items-center">
+    <div className="flex justify-between items-center py-2 border-b border-dashed last:border-0" style={{ borderColor: 'var(--border-color)' }}>
       <span style={{ color: 'var(--text-secondary)' }}>{label}</span>
-      <span className="font-semibold" style={{ color: isFree ? 'var(--accent)' : 'var(--text-primary)' }}>
-        {value}
-      </span>
+      <span className="font-medium" style={{ color: 'var(--text-primary)' }}>{value}</span>
     </div>
   );
 }
