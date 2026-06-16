@@ -6,6 +6,7 @@ export default function Intro() {
   const messages = useMessages() as any;
   const items: string[] = messages?.intro?.visitGuide?.items || [];
   const alsoKnownAsItems: string[] = messages?.intro?.alsoKnownAs?.items || [];
+  const gearItems: string[] = messages?.intro?.gearAndSafety?.items || [];
 
   return (
     <section className="section-padding">
@@ -66,6 +67,21 @@ export default function Intro() {
             </ul>
           </div>
         </div>
+
+        {gearItems.length > 0 && (
+          <div className="mt-8 rounded-xl p-6 sm:p-8" style={{ background: 'var(--bg-tertiary)' }}>
+            <h3 className="font-display text-xl font-semibold mb-4" style={{ color: 'var(--text-primary)' }}>
+              {t('gearAndSafety.title')}
+            </h3>
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+              {gearItems.map((item, i) => (
+                <div key={i} className="flex items-start gap-3 p-3 rounded-lg" style={{ background: 'var(--bg-secondary)' }}>
+                  <span style={{ color: 'var(--text-primary)' }}>{item}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
 
         <div className="mt-12 p-6 sm:p-8 rounded-xl border border-[var(--accent)]" style={{ background: 'var(--bg-tertiary)' }}>
           <h2 className="font-display text-xl font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>

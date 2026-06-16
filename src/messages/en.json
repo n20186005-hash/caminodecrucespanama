@@ -20,23 +20,32 @@
   },
   "intro": {
     "title": "Explore Parque Nacional Camino de Cruces",
-    "description": "Parque Nacional Camino de Cruces is located in Panama Province, Panama. It is an important national park with rich biodiversity and historical heritage, ideal for hiking and ecotourism. The park preserves the historic Camino de Cruces trail, an important route connecting Panama City and Colón during the colonial period.",
+    "description": "Ready for a rainforest adventure through time? Parque Nacional Camino de Cruces is not just a natural treasure protecting Panama's pristine ecology, but also a \"living history museum.\" Beneath the dense canopy of the tropical rainforest, you will walk on the original 16th-century cobblestone trails laid by the Spanish—centuries ago, countless amounts of gold and silver from South America were transported to the Atlantic along this very path.\n\nAccompanied by the calls of howler monkeys in the distance, you can get a close look at sloths, toucans, and blue morpho butterflies fluttering through the trees. This is the perfect intersection of historical ruins and wild nature. Because of the complex rainforest environment and the trail's primitive condition, we strongly recommend wearing professional hiking gear, arriving early in the morning, or hiring an experienced local guide for the safest and most immersive adventure.",
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "Park is open daily, recommended to visit during daytime",
-        "Comfortable hiking shoes are recommended",
-        "Bring a camera to capture the rich tropical rainforest landscapes",
-        "You can combine your visit with nearby attractions like Panama Canal"
+        "Park is open year-round, recommended to enter early in the morning",
+        "Strongly recommend hiring a professional guide, as the rainforest is complex and easy to get lost in",
+        "Wear long sleeves and long pants to prevent mosquito bites, and bring plenty of drinking water",
+        "During the rainy season, the trail is extremely slippery, so please prioritize safety"
       ]
     },
     "alsoKnownAs": {
       "title": "Highlights",
       "items": [
-        "Rich Biodiversity: The park has rich tropical rainforest ecosystems, ideal for bird watching and ecological observation.",
-        "Historical Heritage: Preserves the colonial Camino de Cruces trail, which has important historical value.",
-        "Beautiful Natural Scenery: The park is shaded by green trees and has a beautiful environment, making it an ideal place to relax.",
-        "Close to Tourist Attractions: Not far from famous attractions like Panama Canal and Panama City."
+        "16th-Century Original Cobblestone Trail: Walk on historical ruins and experience the transportation artery of centuries past.",
+        "Rich Rainforest Biodiversity: Observe amazing species like Howler monkeys, Sloths, Toucans, and Blue Morpho butterflies.",
+        "Lifeline Connecting the Oceans: Carries the heavy history of transporting South American gold and silver to the Caribbean coast.",
+        "Intersection of Wild Nature and History: Explore colonial historical ruins within the dense tropical rainforest."
+      ]
+    },
+    "gearAndSafety": {
+      "title": "Gear & Safety Preparation",
+      "items": [
+        "🥾 Non-slip hiking shoes (cobblestones are mossy and very slippery)",
+        "👖 Long sleeves and quick-dry pants (protection against mosquitoes and vegetation)",
+        "💧 Plenty of drinking water (rainforest humidity is extremely high, causing easy dehydration)",
+        "🗺️ Offline maps or a guide (signal is weak, local guide recommended)"
       ]
     }
   },
@@ -90,9 +99,7 @@
     "address": "Address",
     "addressValue": "2CH7+X8V, Panamá, Provincia de Panamá, Panama",
     "plusCode": "Plus Code",
-    "plusCodeValue": "2CH7+X8V",
-    "phone": "Official Phone",
-    "phoneValue": "N/A"
+    "plusCodeValue": "2CH7+X8V"
   },
   "hours": {
     "title": "Opening Hours",
@@ -102,10 +109,10 @@
     "summer": "Dry Season (December-April)",
     "summerTime": "Dec-Apr: Pleasant weather, ideal season for hiking",
     "winter": "Rainy Season (May-November)",
-    "winterTime": "May-Nov: Afternoon showers are common, recommended to visit in the morning",
-    "warning": "Important Notes",
-    "warningTime": "Recommended to verify latest information before visiting",
-    "tip": "Daytime visits offer the best experience"
+    "winterTime": "May-Nov: The trail is extremely slippery in the rainy season, and afternoon showers are common. Early morning visits are recommended.",
+    "warning": "Entry Time Notice",
+    "warningTime": "Since completing the hike takes 4-6 hours, park rangers usually prohibit new hikers from entering after 1:00 PM or 2:00 PM to prevent people from getting stranded in the rainforest after dark.",
+    "tip": "We strongly recommend entering early in the morning for the safest and most immersive adventure."
   },
   "tickets": {
     "title": "Useful Information",
@@ -356,25 +363,25 @@
     "title": "Historical Timeline",
     "items": [
       {
-        "year": "Colonial Period",
-        "title": "Colonial Period: Important Transportation Route",
-        "plaque": "Historic Trail (Transportation Route)",
-        "description": "The Camino de Cruces trail was an important route connecting Panama City and Colón during the colonial period, used for transporting valuable items like Quetzal feathers."
+        "year": "16th Century",
+        "title": "16th Century - Lifeline of Gold and Pirates",
+        "plaque": "Spanish Cobblestone Trail",
+        "description": "The Spanish laid this cobblestone trail to transport South American gold, silver, and other colonial wealth, which also attracted the covetous eyes of famous pirates (like Henry Morgan)."
       },
       {
-        "year": "20th Century",
-        "title": "20th Century: Environmental Protection",
-        "plaque": "National Park (Environmental Protection)",
-        "description": "With increasing environmental awareness, this area was gradually established as a national park to protect its rich biodiversity and historical heritage."
+        "year": "19th Century",
+        "title": "19th Century - Shortcut for the California Gold Rush",
+        "plaque": "Crossing the Tropical Rainforest",
+        "description": "Before the Panama Canal and railway were built, thousands of Americans trekked through this tropical rainforest trail on their way to the California Gold Rush."
       },
       {
-        "year": "21st Century",
-        "title": "21st Century: Ecotourism Destination",
-        "plaque": "Ecotourism (Sustainable Development)",
-        "description": "In the 21st century, with its rich natural landscapes and historical value, it has attracted a large number of ecotourists and become an important destination for Panama's ecotourism."
+        "year": "20th Century & Beyond",
+        "title": "20th Century & Beyond - National Park Establishment",
+        "plaque": "Ecological and Historical Protection",
+        "description": "With rising environmental awareness, the area was established as a national park to protect its rich rainforest biodiversity and precious historical and cultural heritage."
       }
     ],
     "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can start by entering from the main entrance, get a map and understand the park's historical background; then hike along the historic trail and feel the transportation route during the colonial period; if you have enough time, observe the rich tropical rainforest ecosystem and wildlife. Finally, rest at viewpoints inside the park and feel Panama's natural beauty and historical heritage."
+    "guideContent": "When visiting, you can start from the main park entrance to get a map and learn about the park's history; then hike along the original 16th-century cobblestone trail to experience the colonial transportation route. If you have enough time, observe the rich tropical rainforest ecosystem and look out for wildlife like howler monkeys and sloths. Finally, rest at the viewpoints to appreciate the perfect intersection of Panama's wild nature and historical heritage."
   }
 }
