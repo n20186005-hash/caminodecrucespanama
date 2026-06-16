@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "Parque Nacional Camino de Cruces | Camino de Cruces National Park",
+    "description": "Explora el Parque Nacional Camino de Cruces en la provincia de Panamá, Panamá. Un parque nacional con rica biodiversidad y patrimonio histórico, ideal para senderismo y ecoturismo."
+  },
+  "header": {
+    "home": "Inicio",
+    "gallery": "Galería",
+    "reviews": "Reseñas",
+    "map": "Mapa",
+    "backToHome": "Volver al Inicio"
+  },
+  "hero": {
+    "title": "Parque Nacional Camino de Cruces",
+    "subtitle": "Parque Nacional Camino de Cruces · Panamá",
+    "rating": "4.5",
+    "reviewCount": "5,770",
+    "hours": "Parque Nacional",
+    "openMaps": "Ver Ubicación"
+  },
+  "intro": {
+    "title": "Explora el Parque Nacional Camino de Cruces",
+    "description": "El Parque Nacional Camino de Cruces se encuentra en la provincia de Panamá, Panamá. Es un parque nacional importante con rica biodiversidad y patrimonio histórico, ideal para senderismo y ecoturismo. El parque preserva el histórico sendero Camino de Cruces, una ruta importante que conectaba la Ciudad de Panamá y Colón durante el período colonial.",
+    "visitGuide": {
+      "title": "Consejos de Visita",
+      "items": [
+        "El parque está abierto diariamente, se recomienda visitar durante el día",
+        "Se recomienda usar calzado cómodo para caminar",
+        "Lleva una cámara para capturar los hermosos paisajes de la selva tropical",
+        "Puedes combinar tu visita con atracciones cercanas como el Canal de Panamá"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Destacados",
+      "items": [
+        "Rica Biodiversidad: El parque tiene ricos ecosistemas de selva tropical, ideal para observación de aves y observación ecológica.",
+        "Patrimonio Histórico: Preserva el histórico sendero Camino de Cruces, que tiene importante valor histórico.",
+        "Hermosos Paisajes Naturales: El parque está sombreado por árboles verdes y tiene un hermoso ambiente, lo que lo convierte en un lugar ideal para relajarse.",
+        "Cerca de Atracciones Turísticas: No lejos de atracciones famosas como el Canal de Panamá y la Ciudad de Panamá."
+      ]
+    }
+  },
+  "route": {
+    "title": "Ruta de Visita",
+    "overview": "La ruta ideal para explorar el Parque Nacional Camino de Cruces:",
+    "steps": [
+      "Ingresa por la entrada principal, obtén un mapa y comprende el contexto histórico del parque.",
+      "Camina por el sendero histórico y siente la ruta de transporte durante el período colonial.",
+      "Observa el rico ecosistema de selva tropical, fíjate en varias aves y plantas.",
+      "Descansa en los miradores dentro del parque y disfruta de las hermosas vistas de la naturaleza."
+    ],
+    "supplementsTitle": "Consejos Adicionales de Visita",
+    "supplements": [
+      "Se recomienda ir durante el día cuando la luz es mejor, adecuada para tomar fotos y observar vida silvestre.",
+      "Puedes combinar tu visita con atracciones históricas cercanas como el Canal de Panamá.",
+      "Por favor, respeta el ambiente natural, mantén el parque limpio y no molestes a la vida silvestre."
+    ]
+  },
+  "knowledge": {
+    "title": "Descubre el Encanto del Parque Nacional Camino de Cruces",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Importancia Histórica",
+        "content": "El sendero Camino de Cruces fue una ruta importante que conectaba la Ciudad de Panamá y Colón durante el período colonial, con importante valor histórico. Este parque nacional protege este importante patrimonio histórico."
+      },
+      {
+        "id": "nature",
+        "title": "Paisaje Natural",
+        "content": "El parque tiene ricos ecosistemas de selva tropical, un excelente lugar para observar vida silvestre y plantas, mostrando la rica biodiversidad de Panamá."
+      },
+      {
+        "id": "experience",
+        "title": "Experiencia de Visita",
+        "content": "Caminar en el Parque Nacional Camino de Cruces, sentir la belleza natural y el patrimonio histórico de Panamá, es una experiencia inolvidable de ecoturismo y cultura."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Información Básica",
+    "officialName": "Nombre Oficial",
+    "officialNameValue": "Parque Nacional Camino de Cruces",
+    "type": "Tipo de atracción",
+    "typeValue": "Parque Nacional",
+    "country": "País",
+    "countryValue": "Panamá",
+    "city": "Provincia",
+    "cityValue": "Provincia de Panamá",
+    "googleRating": "Calificación de Google",
+    "address": "Dirección",
+    "addressValue": "2CH7+X8V, Panamá, Provincia de Panamá, Panamá",
+    "plusCode": "Código Plus",
+    "plusCodeValue": "2CH7+X8V",
+    "phone": "Teléfono Oficial",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Horarios de Apertura",
+    "outdoor": "Horario del Parque",
+    "outdoorTime": "Diariamente 08:00 - 16:00",
+    "lighthouse": "Mejor Época para Visitar",
+    "summer": "Temporada Seca (diciembre-abril)",
+    "summerTime": "Dic-Abr: Clima agradable, temporada ideal para senderismo",
+    "winter": "Temporada de Lluvias (mayo-noviembre)",
+    "winterTime": "May-Nov: Las lluvias por la tarde son comunes, se recomienda visitar por la mañana",
+    "warning": "Notas Importantes",
+    "warningTime": "Se recomienda verificar la información más reciente antes de visitar",
+    "tip": "Las visitas diurnas ofrecen la mejor experiencia"
+  },
+  "tickets": {
+    "title": "Información Útil",
+    "outdoor": "Tarifa de Entrada",
+    "outdoorPrice": "Se requiere entrada",
+    "lighthouse": "Información de Estacionamiento",
+    "adults": "Estacionamiento del Parque",
+    "adultsPrice": "Estacionamiento disponible en la entrada del parque",
+    "students": "Consejos de Transporte",
+    "studentsPrice": "Se recomienda conducir por cuenta propia o unirse a un grupo turístico",
+    "card": "Consejos de Visita",
+    "cardPrice": "Se recomienda calzado cómodo para caminar, repelente de mosquitos y suficiente agua. Puedes combinar con el Canal de Panamá cercano.",
+    "officialNotice": "Para obtener la información más reciente de visita, consulte el",
+    "officialNoticeLinkLabel": "Sitio Oficial del Ministerio de Ambiente de Panamá",
+    "officialNoticeLink": "https://miambiente.gob.pa/"
+  },
+  "transport": {
+    "title": "Transporte",
+    "airport": "Desde el Aeropuerto",
+    "airportDesc": "A unos 30 minutos en coche del Aeropuerto Internacional de Tocumen (PTY). Se recomienda alquilar un coche o tomar un taxi.",
+    "selfDrive": "En Coche",
+    "selfDriveDesc": "Ubicado en la provincia de Panamá. Simplemente ingrese 'Parque Nacional Camino de Cruces' en la navegación. Estacionamiento disponible en la entrada del parque.",
+    "bus": "Transporte Público",
+    "busDesc": "Tome autobuses de la Ciudad de Panamá hasta el área cercana, luego tome un taxi o camine hasta la entrada del parque.",
+    "intercity": "Unirse a un Tour",
+    "intercityDesc": "Puedes unirte a un grupo turístico desde la Ciudad de Panamá al parque nacional, sin complicaciones.",
+    "cycling": "Otros Consejos",
+    "cyclingDesc": "Se recomienda conducir por cuenta propia o unirse a un grupo turístico. El parque es adecuado para senderismo y exploración.",
+    "tips": "Consejos de Viaje",
+    "tipsDesc": "El Parque Nacional Camino de Cruces es un lugar importante para experimentar la naturaleza e historia de Panamá. Se recomienda visitar durante el día, con calzado cómodo para caminar."
+  },
+  "gallery": {
+    "title": "Fotos Impresionantes",
+    "subtitle": "El Encanto del Parque Nacional Camino de Cruces",
+    "captions": [
+      "Vista panorámica del parque nacional",
+      "Paisaje de selva tropical",
+      "Sendero histórico",
+      "Paisaje del parque",
+      "Ruta de senderismo",
+      "Vegetación tropical",
+      "Biodiversidad",
+      "Características del parque",
+      "Ambiente natural",
+      "Características ecológicas",
+      "Historia y naturaleza",
+      "Vista completa del parque",
+      "Estilo de selva tropical",
+      "Rastros naturales",
+      "Paisaje ecológico",
+      "Paisaje tropical",
+      "Hermosas vistas del parque nacional",
+      "Ruinas históricas",
+      "Exploración natural"
+    ],
+    "viewAll": "Ver más fotos en Google Maps",
+    "showAllPhotos": "Mostrar Todas las Fotos"
+  },
+  "reviews": {
+    "title": "Reseñas de Visitantes",
+    "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
+    "moreReviews": "Ver Más Reseñas en Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "date": "hace 1 mes",
+        "rating": 5,
+        "text": "Hermoso parque nacional con rica biodiversidad. El sendero histórico es muy interesante, ideal para senderismo."
+      },
+      {
+        "name": "María L.",
+        "date": "hace 2 semanas",
+        "rating": 5,
+        "text": "Paisajes naturales asombrosos. El parque está bien mantenido, excelente para observación de aves y observación ecológica."
+      },
+      {
+        "name": "Roberto S.",
+        "date": "hace 3 meses",
+        "rating": 4,
+        "text": "Muy buen parque nacional. Adecuado para senderismo y explorar la naturaleza, puedes sentir los ricos paisajes naturales de Panamá."
+      },
+      {
+        "name": "Ana P.",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "La gema natural de Panamá. El parque tiene importante valor histórico, excelente para comprender la historia y cultura de Panamá."
+      },
+      {
+        "name": "Juan A.",
+        "date": "hace 1 año",
+        "rating": 4,
+        "text": "Gran lugar para ecoturismo. Puedes hacer senderismo aquí, sentir el encanto de la selva tropical y experimentar la belleza natural de Panamá."
+      },
+      {
+        "name": "Sofía R.",
+        "date": "hace más de 6 meses",
+        "rating": 5,
+        "text": "Hermoso parque nacional, lleno del encanto natural de Panamá. Una parada importante en tu viaje por Panamá, definitivamente vale la pena experimentarlo."
+      },
+      {
+        "name": "Miguel T.",
+        "date": "hace 2 meses",
+        "rating": 4,
+        "text": "Interesante parque histórico. Puedes experimentar la historia y cultura de Panamá de cerca. Se recomiendan las visitas diurnas para la mejor experiencia."
+      },
+      {
+        "name": "Laura G.",
+        "date": "hace 2 meses",
+        "rating": 5,
+        "text": "La gema natural de Panamá. El Parque Nacional Camino de Cruces es un lugar importante para comprender la naturaleza e historia de Panamá."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Ubicación y Mapa",
+    "subtitle": "2CH7+X8V, Panamá, Provincia de Panamá, Panamá",
+    "openMaps": "Ver en Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Nacional Camino de Cruces. Todos los derechos reservados.",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
+    "cookies": "Configuración de Cookies",
+    "officialResourcesTitle": "Recursos Oficiales",
+    "officialLinks": {
+      "visitpanama": {
+        "name": "Autoridad de Turismo de Panamá (Visit Panama) - Parques Nacionales",
+        "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
+      },
+      "unesco": {
+        "name": "UNESCO - Lista Indicativa del Patrimonio Mundial",
+        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+      },
+      "miambiente": {
+        "name": "Ministerio de Ambiente de Panamá",
+        "url": "https://miambiente.gob.pa/"
+      },
+      "senacyt": {
+        "name": "Secretaría Nacional de Ciencia y Tecnología (SENACYT) - Archivo de Biodiversidad",
+        "url": "https://conecto.senacyt.gob.pa/conecto/display/n97802"
+      },
+      "micultura": {
+        "name": "Ministerio de Cultura de Panamá (MiCultura) - Ruta Colonial Transístmica",
+        "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
+      }
+    },
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+  },
+  "privacy": {
+    "title": "Política de Privacidad",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Información que Recopilamos",
+        "content": "Solo recopilamos los datos mínimos necesarios para proporcionar nuestros servicios. Estos datos pueden incluir: datos de navegación (dirección IP, tipo de navegador, páginas visitadas), cookies y tecnologías similares, y cualquier información que proporcione voluntariamente a través de formularios de contacto o correo electrónico."
+      },
+      {
+        "heading": "2. Cómo Utilizamos su Información",
+        "content": "Utilizamos la información recopilada para: mejorar el contenido del sitio web y la experiencia del usuario, analizar el tráfico y los patrones de uso, responder a solicitudes y cumplir con nuestras obligaciones legales."
+      },
+      {
+        "heading": "3. Servicios de Terceros",
+        "content": "Nuestro sitio web puede utilizar servicios de terceros como Google Maps (para mapas integrados y datos de ubicación), Google Analytics (para análisis de tráfico) y Unsplash (para imágenes). Estos servicios tienen sus propias políticas de privacidad."
+      },
+      {
+        "heading": "4. Sus Derechos",
+        "content": "Bajo el Reglamento General de Protección de Datos (RGPD) y regulaciones relacionadas, usted tiene derecho a: acceder a sus datos personales, solicitar corrección o eliminación, oponerse al tratamiento y presentar una queja ante una autoridad de control."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Términos de Servicio",
+    "lastUpdated": "Última actualización: junio de 2026",
+    "sections": [
+      {
+        "heading": "1. Aceptación de los Términos",
+        "content": "Al acceder y utilizar este sitio web, usted acepta estar sujeto a estos términos de servicio."
+      },
+      {
+        "heading": "2. Uso del Contenido",
+        "content": "Todo el contenido de este sitio web es solo para fines informativos. Somos un sitio web independiente de información turística de terceros, no afiliado con ningún atractivo turístico, agencia gubernamental u operador comercial."
+      },
+      {
+        "heading": "3. Exactitud de la Información",
+        "content": "Nos esforzamos por proporcionar información precisa y oportuna, pero no podemos garantizar su integridad o exactitud. Los itinerarios, condiciones y servicios están sujetos a cambios sin previo aviso. Verifique siempre la información importante a través de canales oficiales antes de viajar."
+      },
+      {
+        "heading": "4. Propiedad Intelectual",
+        "content": "El diseño y el contenido original de este sitio web están protegidos por derechos de autor. Las imágenes provienen de Unsplash y se utilizan bajo licencia. El uso de datos de Google Maps cumple con los términos de servicio de Google."
+      },
+      {
+        "heading": "5. Limitación de Responsabilidad",
+        "content": "Este sitio web se proporciona \"tal como está\" sin ninguna garantía. No somos responsables de ninguna pérdida derivada del uso de la información en este sitio web, incluyendo, entre otros, las decisiones de viaje basadas en su contenido."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Configuración de Cookies",
+    "description": "Última actualización: junio de 2026\n\nUtilizamos cookies para mejorar su experiencia de navegación. Puede gestionar sus preferencias a continuación.",
+    "essential": {
+      "title": "Cookies Esenciales",
+      "description": "Estas cookies son esenciales para el funcionamiento correcto del sitio web y no se pueden deshabilitar.",
+      "badge": "Siempre Activo"
+    },
+    "analytics": {
+      "title": "Cookies de Análisis",
+      "description": "Nos ayudan a comprender cómo interactúan los visitantes con nuestro sitio web mediante la recopilación de datos de uso anónimos.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Activo",
+          "description": "Recopila información anónima sobre cómo los visitantes utilizan nuestro sitio web."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Cookies de Marketing",
+      "description": "Se utilizan para mostrar anuncios relevantes y medir la efectividad de las campañas publicitarias.",
+      "items": [
+        {
+          "name": "Anuncios Personalizados",
+          "status": "Inactivo",
+          "description": "Puede mostrarle anuncios relevantes basados en sus intereses."
+        }
+      ]
+    },
+    "save": "Guardar Preferencias",
+    "saved": "¡Configuración guardada!",
+    "preferences": {
+      "items": [
+        {
+          "name": "Preferencias del Usuario",
+          "status": "Activo",
+          "description": "Guarda sus preferencias de idioma y configuraciones del sitio web."
+        }
+      ],
+      "title": "Cookies de Preferencias",
+      "description": "Recuerdan sus configuraciones, como las preferencias de idioma y tema."
+    },
+    "consentManagement": "Gestión del Consentimiento: Puede cambiar su configuración de cookies en cualquier momento. Tenga en cuenta que deshabilitar ciertas cookies puede afectar la funcionalidad del sitio web.",
+    "rejectAll": "Rechazar Todas"
+  },
+  "officialManagement": {
+    "title": "Sobre Central Park Alajuela",
+    "text": "Central Park Alajuela es una atracción urbana famosa en la provincia de Alajuela, con hermosos paisajes y un rico valor cultural urbano. Es un lugar ideal para que los residentes locales y turistas se relajen y disfruten."
+  },
+  "historyTimeline": {
+    "title": "Cronología Histórica",
+    "items": [
+      {
+        "year": "Período Colonial",
+        "title": "Período Colonial: Ruta de Transporte Importante",
+        "plaque": "Sendero Histórico (Ruta de Transporte)",
+        "description": "El sendero Camino de Cruces fue una ruta importante que conectaba la Ciudad de Panamá y Colón durante el período colonial, utilizada para transportar artículos valiosos como plumas de Quetzal."
+      },
+      {
+        "year": "Siglo XX",
+        "title": "Siglo XX: Protección Ambiental",
+        "plaque": "Parque Nacional (Protección Ambiental)",
+        "description": "Con la creciente conciencia de protección ambiental, esta área fue gradualmente establecida como un parque nacional para proteger su rica biodiversidad y patrimonio histórico."
+      },
+      {
+        "year": "Siglo XXI",
+        "title": "Siglo XXI: Destino de Ecoturismo",
+        "plaque": "Ecoturismo (Desarollo Sostenible)",
+        "description": "En el siglo XXI, con sus ricos paisajes naturales y valor histórico, ha atraído a una gran cantidad de ecoturistas y se ha convertido en un destino importante para el ecoturismo de Panamá."
+      }
+    ],
+    "guideTitle": "Consejo de Guía para Visitantes",
+    "guideContent": "Al visitar, puede comenzar ingresando por la entrada principal, obtener un mapa y comprender el contexto histórico del parque; luego camine por el sendero histórico y sienta la ruta de transporte durante el período colonial; si tiene suficiente tiempo, observe el rico ecosistema de selva tropical y vida silvestre. Finalmente, descanse en los miradores dentro del parque y sienta la belleza natural y el patrimonio histórico de Panamá."
+  }
+}

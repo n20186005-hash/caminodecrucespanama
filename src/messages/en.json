@@ -1,0 +1,380 @@
+{
+  "meta": {
+    "title": "Parque Nacional Camino de Cruces | Camino de Cruces National Park",
+    "description": "Explore Parque Nacional Camino de Cruces in Panama Province, Panama. A national park with rich biodiversity and historical heritage, ideal for hiking and ecotourism."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Parque Nacional Camino de Cruces",
+    "subtitle": "Camino de Cruces National Park · Panama",
+    "rating": "4.5",
+    "reviewCount": "5,770",
+    "hours": "National Park",
+    "openMaps": "View Location"
+  },
+  "intro": {
+    "title": "Explore Parque Nacional Camino de Cruces",
+    "description": "Parque Nacional Camino de Cruces is located in Panama Province, Panama. It is an important national park with rich biodiversity and historical heritage, ideal for hiking and ecotourism. The park preserves the historic Camino de Cruces trail, an important route connecting Panama City and Colón during the colonial period.",
+    "visitGuide": {
+      "title": "Visiting Tips",
+      "items": [
+        "Park is open daily, recommended to visit during daytime",
+        "Comfortable hiking shoes are recommended",
+        "Bring a camera to capture the rich tropical rainforest landscapes",
+        "You can combine your visit with nearby attractions like Panama Canal"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Rich Biodiversity: The park has rich tropical rainforest ecosystems, ideal for bird watching and ecological observation.",
+        "Historical Heritage: Preserves the colonial Camino de Cruces trail, which has important historical value.",
+        "Beautiful Natural Scenery: The park is shaded by green trees and has a beautiful environment, making it an ideal place to relax.",
+        "Close to Tourist Attractions: Not far from famous attractions like Panama Canal and Panama City."
+      ]
+    }
+  },
+  "route": {
+    "title": "Tour Route",
+    "overview": "The ideal route to explore Parque Nacional Camino de Cruces:",
+    "steps": [
+      "Enter from the main entrance, get a map and understand the park's historical background.",
+      "Hike along the historic trail and feel the transportation route during the colonial period.",
+      "Observe the rich tropical rainforest ecosystem, watch for various birds and plants.",
+      "Rest at viewpoints inside the park and enjoy the beautiful scenery of nature."
+    ],
+    "supplementsTitle": "Additional Tour Tips",
+    "supplements": [
+      "It's recommended to go during the day when the light is best, suitable for taking photos and observing wildlife.",
+      "You can combine your visit with nearby historical attractions like Panama Canal.",
+      "Please respect the natural environment, keep the park clean, and do not disturb wildlife."
+    ]
+  },
+  "knowledge": {
+    "title": "Discover the Charm of Parque Nacional Camino de Cruces",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Significance",
+        "content": "The Camino de Cruces trail was an important route connecting Panama City and Colón during the colonial period, with important historical value. This national park protects this important historical heritage."
+      },
+      {
+        "id": "nature",
+        "title": "Natural Landscape",
+        "content": "The park has rich tropical rainforest ecosystems, an excellent place for observing wildlife and plants, showing Panama's rich biodiversity."
+      },
+      {
+        "id": "experience",
+        "title": "Visiting Experience",
+        "content": "Hiking in Parque Nacional Camino de Cruces, feeling Panama's natural beauty and historical heritage, is an unforgettable ecological and cultural experience."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Parque Nacional Camino de Cruces",
+    "type": "Attraction Type",
+    "typeValue": "National Park",
+    "country": "Country",
+    "countryValue": "Panama",
+    "city": "Province",
+    "cityValue": "Panama Province",
+    "googleRating": "Google Rating",
+    "address": "Address",
+    "addressValue": "2CH7+X8V, Panamá, Provincia de Panamá, Panama",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2CH7+X8V",
+    "phone": "Official Phone",
+    "phoneValue": "N/A"
+  },
+  "hours": {
+    "title": "Opening Hours",
+    "outdoor": "Park Opening Hours",
+    "outdoorTime": "Daily 08:00 - 16:00",
+    "lighthouse": "Best Time to Visit",
+    "summer": "Dry Season (December-April)",
+    "summerTime": "Dec-Apr: Pleasant weather, ideal season for hiking",
+    "winter": "Rainy Season (May-November)",
+    "winterTime": "May-Nov: Afternoon showers are common, recommended to visit in the morning",
+    "warning": "Important Notes",
+    "warningTime": "Recommended to verify latest information before visiting",
+    "tip": "Daytime visits offer the best experience"
+  },
+  "tickets": {
+    "title": "Useful Information",
+    "outdoor": "Entrance Fee",
+    "outdoorPrice": "Entrance fee required",
+    "lighthouse": "Parking Information",
+    "adults": "Park Parking",
+    "adultsPrice": "Parking available at park entrance",
+    "students": "Transportation Tips",
+    "studentsPrice": "Self-driving or joining a tour group recommended",
+    "card": "Visiting Tips",
+    "cardPrice": "Comfortable hiking shoes, mosquito repellent, and sufficient water recommended. You can combine with nearby Panama Canal.",
+    "officialNotice": "For the latest visiting information, please refer to the",
+    "officialNoticeLinkLabel": "Ministry of Environment of Panama Official Website",
+    "officialNoticeLink": "https://miambiente.gob.pa/"
+  },
+  "transport": {
+    "title": "Transportation",
+    "airport": "From the Airport",
+    "airportDesc": "About 30 minutes drive from Tocumen International Airport (PTY). Renting a car or taking a taxi is recommended.",
+    "selfDrive": "Driving",
+    "selfDriveDesc": "Located in Panama Province. Simply input 'Parque Nacional Camino de Cruces' in navigation. Parking available at park entrance.",
+    "bus": "Public Transport",
+    "busDesc": "Take Panama City buses to nearby area, then take a taxi or walk to park entrance.",
+    "intercity": "Joining a Tour",
+    "intercityDesc": "You can join a tour group from Panama City to the national park, hassle-free.",
+    "cycling": "Other Tips",
+    "cyclingDesc": "Self-driving or joining a tour group recommended. The park is suitable for hiking and exploration.",
+    "tips": "Travel Tips",
+    "tipsDesc": "Parque Nacional Camino de Cruces is an important place to experience Panama's nature and history. Visiting during daytime is recommended, wear comfortable hiking shoes."
+  },
+  "gallery": {
+    "title": "Stunning Photos",
+    "subtitle": "The Charm of Parque Nacional Camino de Cruces",
+    "captions": [
+      "National park panoramic view",
+      "Tropical rainforest scenery",
+      "Historic trail",
+      "Park landscape",
+      "Hiking route",
+      "Tropical vegetation",
+      "Biodiversity",
+      "Park features",
+      "Natural atmosphere",
+      "Ecological characteristics",
+      "History and nature",
+      "Full park view",
+      "Tropical rainforest style",
+      "Natural traces",
+      "Ecological landscape",
+      "Tropical scenery",
+      "Beautiful national park views",
+      "Historical ruins",
+      "Nature exploration"
+    ],
+    "viewAll": "View more photos on Google Maps",
+    "showAllPhotos": "Show All Photos"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Review information can be viewed via Google Maps (external link).",
+    "moreReviews": "View More Reviews on Google Maps",
+    "items": [
+      {
+        "name": "Carlos M.",
+        "date": "1 month ago",
+        "rating": 5,
+        "text": "Beautiful national park with rich biodiversity. The historic trail is very interesting, ideal for hiking."
+      },
+      {
+        "name": "María L.",
+        "date": "2 weeks ago",
+        "rating": 5,
+        "text": "Amazing natural scenery. The park is well-maintained, excellent for bird watching and ecological observation."
+      },
+      {
+        "name": "Roberto S.",
+        "date": "3 months ago",
+        "rating": 4,
+        "text": "Very good national park. Suitable for hiking and exploring nature, you can feel Panama's rich natural landscapes."
+      },
+      {
+        "name": "Ana P.",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Panama's natural gem. The park has important historical value, excellent for understanding Panama's history and culture."
+      },
+      {
+        "name": "Juan A.",
+        "date": "1 year ago",
+        "rating": 4,
+        "text": "Great place for ecotourism. You can hike here, feel the charm of tropical rainforests, and experience Panama's natural beauty."
+      },
+      {
+        "name": "Sofía R.",
+        "date": "Over 6 months ago",
+        "rating": 5,
+        "text": "Beautiful national park, full of Panama's natural charm. An important stop on your Panama trip, definitely worth experiencing."
+      },
+      {
+        "name": "Miguel T.",
+        "date": "2 months ago",
+        "rating": 4,
+        "text": "Interesting historical park. You can experience Panama's history and culture up close. Daytime visits recommended for the best experience."
+      },
+      {
+        "name": "Laura G.",
+        "date": "2 months ago",
+        "rating": 5,
+        "text": "Panama's natural gem. Camino de Cruces National Park is an important place to understand Panama's nature and history."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Location & Map",
+    "subtitle": "2CH7+X8V, Panamá, Provincia de Panamá, Panama",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Parque Nacional Camino de Cruces. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources",
+    "officialLinks": {
+      "visitpanama": {
+        "name": "Panama Tourism Authority (Visit Panama) - National Parks",
+        "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
+      },
+      "unesco": {
+        "name": "UNESCO - World Heritage Tentative List",
+        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+      },
+      "miambiente": {
+        "name": "Ministry of Environment of Panama",
+        "url": "https://miambiente.gob.pa/"
+      },
+      "senacyt": {
+        "name": "National Secretariat of Science and Technology (SENACYT) - Biodiversity Archive",
+        "url": "https://conecto.senacyt.gob.pa/conecto/display/n97802"
+      },
+      "micultura": {
+        "name": "Ministry of Culture of Panama (MiCultura) - Trans-Isthmian Colonial Route",
+        "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
+      }
+    },
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Information We Collect",
+        "content": "We only collect the minimum data necessary to provide our services. This data may include: browsing data (IP address, browser type, visited pages), cookies and similar technologies, and any information you voluntarily provide via contact forms or email."
+      },
+      {
+        "heading": "2. How We Use Your Information",
+        "content": "We use the collected information to: improve website content and user experience, analyze traffic and usage patterns, respond to requests, and comply with our legal obligations."
+      },
+      {
+        "heading": "3. Third-Party Services",
+        "content": "Our website may use third-party services such as Google Maps (for embedded maps and location data), Google Analytics (for traffic analysis), and Unsplash (for images). These services have their own privacy policies."
+      },
+      {
+        "heading": "4. Your Rights",
+        "content": "Under the General Data Protection Regulation (GDPR) and related regulations, you have the right to: access your personal data, request correction or deletion, object to processing, and lodge a complaint with a supervisory authority."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last Updated: June 2026",
+    "sections": [
+      {
+        "heading": "1. Acceptance of Terms",
+        "content": "By accessing and using this website, you agree to be bound by these terms of service."
+      },
+      {
+        "heading": "2. Use of Content",
+        "content": "All content on this website is for informational purposes only. We are an independent third-party travel information website, not affiliated with any tourist attractions, government agencies, or commercial operators."
+      },
+      {
+        "heading": "3. Accuracy of Information",
+        "content": "We strive to provide accurate and timely information, but we cannot guarantee its completeness or accuracy. Itineraries, conditions, and services are subject to change without notice. Always verify important information through official channels before traveling."
+      },
+      {
+        "heading": "4. Intellectual Property",
+        "content": "The design and original content of this website are protected by copyright. Images are sourced from Unsplash and used under license. The use of Google Maps data complies with Google's terms of service."
+      },
+      {
+        "heading": "5. Limitation of Liability",
+        "content": "This website is provided \"as is\" without any warranties. We are not responsible for any losses resulting from the use of information on this website, including but not limited to travel decisions made based on its content."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Last Updated: June 2026\n\nWe use cookies to improve your browsing experience. You can manage your preferences below.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "These cookies are essential for the website to function properly and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics Cookies",
+      "description": "They help us understand how visitors interact with our website by collecting anonymous usage data.",
+      "items": [
+        {
+          "name": "Google Analytics",
+          "status": "Active",
+          "description": "It collects anonymous information about how visitors use our website."
+        }
+      ]
+    },
+    "marketing": {
+      "title": "Marketing Cookies",
+      "description": "They are used to show relevant advertisements and measure the effectiveness of ad campaigns.",
+      "items": [
+        {
+          "name": "Personalized Ads",
+          "status": "Inactive",
+          "description": "It can show you relevant ads based on your interests."
+        }
+      ]
+    },
+    "save": "Save Preferences",
+    "saved": "Settings saved!",
+    "preferences": {
+      "items": [
+        {
+          "name": "User Preferences",
+          "status": "Active",
+          "description": "Saves your language preferences and website settings."
+        }
+      ],
+      "title": "Preference Cookies",
+      "description": "They remember your settings, such as language and theme preferences."
+    },
+    "consentManagement": "Consent Management: You can change your cookie settings at any time. Please note that disabling certain cookies may affect the website's functionality.",
+    "rejectAll": "Reject All"
+  },
+  "officialManagement": {
+    "title": "About Parque Natural Cerro Verde",
+    "text": "Parque Natural Cerro Verde is a famous natural attraction in the Santa Ana Department, boasting spectacular mountain views and rich natural and cultural value. It is directly managed and maintained by the Salvadoran Institute of Tourism (ISTU)."
+  },
+  "historyTimeline": {
+    "title": "Historical Timeline",
+    "items": [
+      {
+        "year": "Colonial Period",
+        "title": "Colonial Period: Important Transportation Route",
+        "plaque": "Historic Trail (Transportation Route)",
+        "description": "The Camino de Cruces trail was an important route connecting Panama City and Colón during the colonial period, used for transporting valuable items like Quetzal feathers."
+      },
+      {
+        "year": "20th Century",
+        "title": "20th Century: Environmental Protection",
+        "plaque": "National Park (Environmental Protection)",
+        "description": "With increasing environmental awareness, this area was gradually established as a national park to protect its rich biodiversity and historical heritage."
+      },
+      {
+        "year": "21st Century",
+        "title": "21st Century: Ecotourism Destination",
+        "plaque": "Ecotourism (Sustainable Development)",
+        "description": "In the 21st century, with its rich natural landscapes and historical value, it has attracted a large number of ecotourists and become an important destination for Panama's ecotourism."
+      }
+    ],
+    "guideTitle": "Visitor Guide Tip",
+    "guideContent": "When visiting, you can start by entering from the main entrance, get a map and understand the park's historical background; then hike along the historic trail and feel the transportation route during the colonial period; if you have enough time, observe the rich tropical rainforest ecosystem and wildlife. Finally, rest at viewpoints inside the park and feel Panama's natural beauty and historical heritage."
+  }
+}
