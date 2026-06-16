@@ -47,7 +47,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Parque Natural Cerro Verde",
+      siteName: "Parque Nacional Camino de Cruces",
       locale: localeMap[locale] || 'zh_CN',
       type: 'website',
     },
