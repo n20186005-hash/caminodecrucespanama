@@ -269,7 +269,22 @@
         "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
       }
     },
-    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions."
+    "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "furtherReadingTitle": "Further Reading",
+    "furtherReading": {
+      "paper1": {
+        "name": "Logistics and Trade Networks of the Panama Isthmus in the 16th Century - Historical Paper",
+        "url": "#"
+      },
+      "book1": {
+        "name": "The Path Between the Seas - History of Exploration and the Canal",
+        "url": "#"
+      },
+      "report1": {
+        "name": "Preliminary Report on the Archaeological Excavation of Camino de Cruces",
+        "url": "#"
+      }
+    }
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -370,28 +385,90 @@
     "text": "Parque Nacional Camino de Cruces is an important national park in Panama Province, boasting rich biodiversity and historical heritage. It is directly managed and maintained by the Ministry of Environment of Panama (MiAMBIENTE)."
   },
   "historyTimeline": {
-    "title": "Historical Timeline",
+    "title": "Historical Lore & Timeline",
     "items": [
       {
         "year": "16th Century",
-        "title": "16th Century - Lifeline of Gold and Pirates",
-        "plaque": "Spanish Cobblestone Trail",
-        "description": "The Spanish laid this cobblestone trail to transport South American gold, silver, and other colonial wealth, which also attracted the covetous eyes of famous pirates (like Henry Morgan)."
+        "title": "16th Century - Lifeline of Gold & Pirates",
+        "plaque": "Spaniards lay cobblestone trail",
+        "description": "The Spanish laid this cobblestone path to transport South American gold, silver, and other colonial wealth. In 1671, the notorious pirate Henry Morgan used this hidden rainforest shortcut to successfully bypass the main Spanish defenses, ultimately sacking and burning Panamá Viejo."
       },
       {
         "year": "19th Century",
-        "title": "19th Century - Shortcut for the California Gold Rush",
-        "plaque": "Crossing the Tropical Rainforest",
-        "description": "Before the Panama Canal and railway were built, thousands of Americans trekked through this tropical rainforest trail on their way to the California Gold Rush."
+        "title": "19th Century - The Cruel Reality of the Gold Rush",
+        "plaque": "Crossing the rainforest",
+        "description": "Before the Panama Canal was built, thousands of American prospectors (49ers) trekked this \"shortcut\" to reach California. Explorer diaries from the time record how they battled cholera, yellow fever, and extreme rainforest humidity here, with many failing to complete this heavy lifeline."
       },
       {
         "year": "20th Century & Beyond",
-        "title": "20th Century & Beyond - National Park Establishment",
-        "plaque": "Ecological and Historical Protection",
+        "title": "20th Century & Beyond - National Park Established",
+        "plaque": "Protection of ecology and history",
         "description": "With rising environmental awareness, the area was established as a national park to protect its rich rainforest biodiversity and precious historical and cultural heritage."
       }
     ],
-    "guideTitle": "Visitor Guide Tip",
-    "guideContent": "When visiting, you can start from the main park entrance to get a map and learn about the park's history; then hike along the original 16th-century cobblestone trail to experience the colonial transportation route. If you have enough time, observe the rich tropical rainforest ecosystem and look out for wildlife like howler monkeys and sloths. Finally, rest at the viewpoints to appreciate the perfect intersection of Panama's wild nature and historical heritage."
+    "guideTitle": "Visitor Guide Recommendations",
+    "guideContent": "Visitors can enter through the main park entrance, obtain a map, and learn about the park's historical background; then hike along the original 16th-century cobblestone trail to experience the colonial transportation hub; if you have enough time, you can observe the rich tropical rainforest ecosystem and look for wildlife like howler monkeys and sloths. Finally, rest at the park's viewpoints to feel the perfect intersection of Panama's wild nature and historical heritage."
+  },
+  "floraFauna": {
+    "title": "Species Archives",
+    "subtitle": "Within this 9,000-acre tropical forest reserve live countless amazing plants and animals. Here are the natural survival rules of some iconic species:",
+    "cards": [
+      {
+        "name": "Blue Morpho Butterfly",
+        "latin": "Morpho peleides",
+        "description": "Their massive blue wings aren't made of pigment, but use microstructures to refract light. This \"structural color\" makes them flash dazzlingly as they navigate the rainforest, effectively confusing predators."
+      },
+      {
+        "name": "Mantled Howler Monkey",
+        "latin": "Alouatta palliata",
+        "description": "Their hyoid bone has evolved into a resonating chamber, allowing their howls to travel up to 3 miles (about 4.8 km) through the dense rainforest, primarily used to mark territory and avoid inter-group conflicts."
+      },
+      {
+        "name": "Brown-throated Sloth",
+        "latin": "Bradypus variegatus",
+        "description": "The ultimate energy savers. Their fur often hosts symbiotic green algae, which not only provides excellent camouflage in the rainforest canopy but even supplements them with trace nutrients."
+      },
+      {
+        "name": "Chestnut-mandibled Toucan",
+        "latin": "Ramphastos swainsonii",
+        "description": "While their large, brightly colored beaks look heavy, the inside is spongy and exceptionally light, serving not just as a feeding tool but as an excellent radiator to regulate body temperature in the tropical rainforest."
+      }
+    ]
+  },
+  "practicalInfo": {
+    "title": "Practical Exploration Guide",
+    "petPolicy": {
+      "title": "🐕 Pet Policy & Precautions",
+      "content": "Dogs are allowed in the park. However, due to the pristine rainforest environment, please keep them on a leash at all times to avoid disturbing wildlife like howler monkeys and toucans. It is recommended to treat your dog for ticks beforehand and bring plenty of water for them."
+    },
+    "trailConditions": {
+      "title": "🥾 Real Trail Conditions & Geological Tips",
+      "content": "The trail base is primarily composed of 16th-century river cobblestones. During the rainy season (May-Nov), massive rainfall makes the moss-covered stones exceptionally slippery. The dry season (Dec-Apr) offers better conditions, but high heat and humidity remain a physical challenge."
+    },
+    "difficulty": {
+      "title": "⛰️ Hiking Difficulty Rating",
+      "content": "Difficulty Rating: Moderate to Hard (depending on the season). Total length is about 10 km (one way) with an elevation gain of around 200 meters. Completing the classic crossing typically requires 4-6 hours of precise time, so please manage your stamina accordingly."
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "questions": [
+      {
+        "q": "How much is the entrance fee for Parque Nacional Camino de Cruces?",
+        "a": "Foreign adult tickets are $5.00 USD, national residents are $3.00 USD, students and retirees are $1.00 USD, and children under 12 are free. Please ensure you purchase tickets online in advance through the official MiAMBIENTE website."
+      },
+      {
+        "q": "How long does it take to walk the trail?",
+        "a": "Completing the entire classic crossing section typically takes 4-6 hours, covering about 10 km, with a moderate to hard difficulty level. It is recommended to enter the park early in the morning."
+      },
+      {
+        "q": "Are dogs allowed in the park?",
+        "a": "Yes. Dogs are allowed in the park, but they must be kept on a leash at all times to prevent disturbing wildlife, and tick prevention treatment is recommended beforehand."
+      },
+      {
+        "q": "When is the best season to visit?",
+        "a": "The dry season (December-April) is the best time for hiking, with clear weather and better trail conditions. During the rainy season (May-November), the trail becomes extremely slippery, significantly increasing the hiking difficulty."
+      }
+    ]
   }
 }

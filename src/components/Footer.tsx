@@ -51,6 +51,30 @@ export default function Footer() {
           </div>
         </div>
 
+        <div className="mb-8">
+          <h3 className="font-display text-lg font-semibold mb-3" style={{ color: 'var(--text-primary)' }}>
+            {t('furtherReadingTitle')}
+          </h3>
+          <div className="flex flex-col gap-2">
+            {['paper1', 'book1', 'report1'].map((key) => {
+              const item = t.raw(`furtherReading.${key}`) as { name: string; url: string };
+              if (!item) return null;
+              return (
+                <a 
+                  key={key}
+                  href={item.url} 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="hover:underline text-sm" 
+                  style={{ color: 'var(--accent)' }}
+                >
+                  {item.name}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+
         <div
           className="pt-6 text-center text-sm space-y-4"
           style={{ borderTop: '1px solid var(--border-color)', color: 'var(--text-muted)' }}

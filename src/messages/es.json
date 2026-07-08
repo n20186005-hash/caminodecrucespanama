@@ -269,7 +269,22 @@
         "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
       }
     },
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales."
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "furtherReadingTitle": "Otras Lecturas",
+    "furtherReading": {
+      "paper1": {
+        "name": "Redes de Logística y Comercio del Istmo de Panamá en el Siglo XVI - Artículo Histórico",
+        "url": "#"
+      },
+      "book1": {
+        "name": "The Path Between the Seas - Historia de la Exploración y el Canal",
+        "url": "#"
+      },
+      "report1": {
+        "name": "Informe Preliminar sobre la Excavación Arqueológica del Camino de Cruces",
+        "url": "#"
+      }
+    }
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -370,28 +385,90 @@
     "text": "Parque Nacional Camino de Cruces es un importante parque nacional en la provincia de Panamá, que cuenta con una rica biodiversidad y patrimonio histórico. Es administrado y mantenido directamente por el Ministerio de Ambiente de Panamá (MiAMBIENTE)."
   },
   "historyTimeline": {
-    "title": "Cronología Histórica",
+    "title": "Lore Histórico y Línea de Tiempo",
     "items": [
       {
         "year": "Siglo XVI",
-        "title": "Siglo XVI - Línea de Vida de Oro y Piratas",
-        "plaque": "Sendero Empedrado Español",
-        "description": "Los españoles construyeron este sendero empedrado para transportar oro, plata y otras riquezas coloniales sudamericanas, lo que también atrajo las codiciosas miradas de piratas famosos (como Henry Morgan)."
+        "title": "Siglo XVI - Línea de vida de oro y piratas",
+        "plaque": "Los españoles construyen el camino empedrado",
+        "description": "Los españoles construyeron este camino empedrado para transportar oro, plata y otras riquezas coloniales de América del Sur. En 1671, el infame pirata Henry Morgan utilizó este atajo oculto en la selva para evadir con éxito las principales defensas españolas, saqueando y quemando finalmente Panamá Viejo."
       },
       {
         "year": "Siglo XIX",
-        "title": "Siglo XIX - Atajo para la Fiebre del Oro de California",
-        "plaque": "Cruzando la Selva Tropical",
-        "description": "Antes de que se construyera el Canal de Panamá y el ferrocarril, miles de estadounidenses recorrieron este sendero de selva tropical en su camino hacia la Fiebre del Oro de California."
+        "title": "Siglo XIX - La cruel realidad de la Fiebre del Oro",
+        "plaque": "Cruzando la selva tropical",
+        "description": "Antes de que se construyera el Canal de Panamá, miles de buscadores de oro estadounidenses (49ers) recorrieron este \"atajo\" para llegar a California. Los diarios de exploradores de la época registran cómo lucharon contra el cólera, la fiebre amarilla y la humedad extrema de la selva aquí, y muchos no lograron completar esta pesada línea de vida."
       },
       {
-        "year": "Siglo XX y Más Allá",
-        "title": "Siglo XX y Más Allá - Establecimiento del Parque Nacional",
-        "plaque": "Protección Ecológica e Histórica",
-        "description": "Con el aumento de la conciencia ambiental, la zona fue establecida como un parque nacional para proteger su rica biodiversidad de la selva tropical y su precioso patrimonio histórico y cultural."
+        "year": "Siglo XX y más allá",
+        "title": "Siglo XX y más allá - Creación del Parque Nacional",
+        "plaque": "Protección de la ecología y la historia",
+        "description": "Con el aumento de la conciencia ambiental, el área fue establecida como parque nacional para proteger su rica biodiversidad selvática y su precioso patrimonio histórico y cultural."
       }
     ],
-    "guideTitle": "Consejo de Guía para Visitantes",
-    "guideContent": "Al visitar, puede comenzar desde la entrada principal del parque para obtener un mapa y conocer la historia del parque; luego, caminar a lo largo del sendero empedrado original del siglo XVI para experimentar la ruta de transporte colonial. Si tiene suficiente tiempo, observe el rico ecosistema de la selva tropical y busque vida silvestre como monos aulladores y perezosos. Finalmente, descanse en los miradores para apreciar la perfecta intersección entre la naturaleza salvaje de Panamá y su patrimonio histórico."
+    "guideTitle": "Recomendaciones para visitantes",
+    "guideContent": "Los visitantes pueden ingresar por la entrada principal del parque, obtener un mapa y conocer los antecedentes históricos del parque; luego caminar por el sendero empedrado original del siglo XVI para experimentar el centro de transporte colonial; si tiene suficiente tiempo, puede observar el rico ecosistema de la selva tropical y buscar vida silvestre como monos aulladores y perezosos. Finalmente, descanse en los miradores del parque para sentir la intersección perfecta de la naturaleza salvaje y el patrimonio histórico de Panamá."
+  },
+  "floraFauna": {
+    "title": "Archivos de Especies",
+    "subtitle": "Dentro de esta reserva de bosque tropical de 9,000 acres viven innumerables plantas y animales sorprendentes. Aquí están las reglas de supervivencia natural de algunas especies icónicas:",
+    "cards": [
+      {
+        "name": "Mariposa Morpho Azul",
+        "latin": "Morpho peleides",
+        "description": "Sus enormes alas azules no están hechas de pigmento, sino que utilizan microestructuras para refractar la luz. Este \"color estructural\" las hace destellar deslumbrantemente mientras navegan por la selva, confundiendo efectivamente a los depredadores."
+      },
+      {
+        "name": "Mono Aullador",
+        "latin": "Alouatta palliata",
+        "description": "Su hueso hioides ha evolucionado hasta convertirse en una cámara de resonancia, lo que permite que sus aullidos viajen hasta 3 millas (unos 4,8 km) a través de la densa selva, utilizados principalmente para marcar territorio y evitar conflictos entre grupos."
+      },
+      {
+        "name": "Perezoso de Tres Dedos",
+        "latin": "Bradypus variegatus",
+        "description": "Los máximos ahorradores de energía. Su pelaje a menudo alberga algas verdes simbióticas, que no solo proporcionan un excelente camuflaje en el dosel de la selva tropical, sino que incluso los complementan con nutrientes traza."
+      },
+      {
+        "name": "Tucán de Pico Castaño",
+        "latin": "Ramphastos swainsonii",
+        "description": "Si bien sus picos grandes y de colores brillantes parecen pesados, el interior es esponjoso y excepcionalmente liviano, sirviendo no solo como herramienta de alimentación sino como un excelente radiador para regular la temperatura corporal en la selva tropical."
+      }
+    ]
+  },
+  "practicalInfo": {
+    "title": "Guía Práctica de Exploración",
+    "petPolicy": {
+      "title": "🐕 Política de Mascotas y Precauciones",
+      "content": "Se permiten perros en el parque. Sin embargo, debido al entorno de selva virgen, manténgalos atados en todo momento para evitar perturbar a la vida silvestre como los monos aulladores y los tucanes. Se recomienda tratar a su perro contra las garrapatas de antemano y llevar mucha agua para ellos."
+    },
+    "trailConditions": {
+      "title": "🥾 Condiciones Reales del Sendero y Consejos Geológicos",
+      "content": "La base del sendero está compuesta principalmente por cantos rodados de río del siglo XVI. Durante la temporada de lluvias (mayo-nov), las lluvias masivas hacen que las piedras cubiertas de musgo sean excepcionalmente resbaladizas. La temporada seca (dic-abr) ofrece mejores condiciones, pero el alto calor y la humedad siguen siendo un desafío físico."
+    },
+    "difficulty": {
+      "title": "⛰️ Calificación de Dificultad de Senderismo",
+      "content": "Calificación de Dificultad: Moderada a Difícil (dependiendo de la temporada). La longitud total es de unos 10 km (solo ida) con un desnivel positivo de unos 200 metros. Completar el cruce clásico generalmente requiere de 4 a 6 horas de tiempo preciso, así que administre su resistencia en consecuencia."
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "questions": [
+      {
+        "q": "¿Cuánto cuesta la entrada al Parque Nacional Camino de Cruces?",
+        "a": "Los boletos para adultos extranjeros cuestan $5.00 USD, para residentes nacionales $3.00 USD, estudiantes y jubilados $1.00 USD, y los niños menores de 12 años entran gratis. Asegúrese de comprar los boletos en línea con anticipación a través del sitio web oficial de MiAMBIENTE."
+      },
+      {
+        "q": "¿Cuánto tiempo se tarda en caminar el sendero?",
+        "a": "Completar toda la sección del cruce clásico suele llevar de 4 a 6 horas, cubriendo unos 10 km, con un nivel de dificultad de moderado a difícil. Se recomienda ingresar al parque temprano en la mañana."
+      },
+      {
+        "q": "¿Se permiten perros en el parque?",
+        "a": "Sí. Se permiten perros en el parque, pero deben mantenerse con correa en todo momento para evitar molestar a la vida silvestre, y se recomienda un tratamiento preventivo contra las garrapatas de antemano."
+      },
+      {
+        "q": "¿Cuándo es la mejor temporada para visitar?",
+        "a": "La temporada seca (diciembre-abril) es el mejor momento para hacer senderismo, con clima despejado y mejores condiciones en los senderos. Durante la temporada de lluvias (mayo-noviembre), el sendero se vuelve extremadamente resbaladizo, aumentando significativamente la dificultad del senderismo."
+      }
+    ]
   }
 }
