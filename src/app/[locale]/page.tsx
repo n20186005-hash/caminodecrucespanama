@@ -1,11 +1,15 @@
-import { setRequestLocale, getTranslations } from 'next-intl/server';
+import { setRequestLocale, getMessages } from 'next-intl/server';
+import { SITE } from '@/lib/site';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import Breadcrumb from '@/components/Breadcrumb';
 import Intro from '@/components/Intro';
+import NearbyLandmarks from '@/components/NearbyLandmarks';
 import FloraFaunaCards from '@/components/FloraFaunaCards';
 import BasicInfo from '@/components/BasicInfo';
 import HistoryTimeline from '@/components/HistoryTimeline';
 import RouteSection from '@/components/RouteSection';
+import TrailsSection from '@/components/TrailsSection';
 import HoursSection from '@/components/HoursSection';
 import PracticalInfo from '@/components/PracticalInfo';
 import TicketsSection from '@/components/TicketsSection';
@@ -13,6 +17,10 @@ import TransportSection from '@/components/TransportSection';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
+import WeatherSection from '@/components/WeatherSection';
+import FacilitiesSection from '@/components/FacilitiesSection';
+import FaqSection from '@/components/FaqSection';
+import SourcesSection from '@/components/SourcesSection';
 import Footer from '@/components/Footer';
 
 export default async function HomePage({
@@ -23,16 +31,12 @@ export default async function HomePage({
   const { locale } = await params;
   setRequestLocale(locale);
 
-  const tFAQ = await getTranslations('faq');
-  const questions = [0, 1, 2, 3].map((index) => ({
-    q: tFAQ(`questions.${index}.q`),
-    a: tFAQ(`questions.${index}.a`),
-  }));
-
+  const messages = (await getMessages()) as any;
+  const faqQuestions: { q: string; a: string }[] = messages?.faq?.questions || [];
   const faqSchema = {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: questions.map((item) => ({
+    mainEntity: faqQuestions.map((item) => ({
       '@type': 'Question',
       name: item.q,
       acceptedAnswer: {
@@ -42,52 +46,101 @@ export default async function HomePage({
     })),
   };
 
+  // 单景点实体绑定：TouristAttraction + Park + @id + image + NAP + geo
   const placeSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Park',
-    name: 'Parque Nacional Camino de Cruces',
-    description: 'A 9,000-acre tropical forest reserve and historical national park in Panama featuring the 16th-century Camino de Cruces trail.',
-    url: 'https://caminodecrucespanama.com',
+    '@type': ['TouristAttraction', 'Park'],
+    '@id': `${SITE.url}/#attraction`,
+    name: SITE.fullName,
+    alternateName: [SITE.shortName, `${SITE.city} ${SITE.fullName}`],
+    description:
+      messages?.meta?.description ||
+      `Comprehensive visitor guide to ${SITE.fullName} in ${SITE.city}, ${SITE.province}, ${SITE.country}.`,
+    url: `${SITE.url}/${locale}`,
+    image: [SITE.heroImageAbsolute],
+    // 公园设有入场门票（在线购票制），因此 not accessible for free
+    isAccessibleForFree: false,
+    publicAccess: true,
     address: {
       '@type': 'PostalAddress',
-      addressLocality: 'Panamá',
-      addressRegion: 'Provincia de Panamá',
-      addressCountry: 'PA',
+      streetAddress: SITE.plusCode,
+      addressLocality: SITE.city,
+      addressRegion: SITE.province,
+      addressCountry: SITE.countryCode,
     },
     geo: {
       '@type': 'GeoCoordinates',
-      latitude: '9.0494',
-      longitude: '-79.5939',
+      latitude: SITE.latitude,
+      longitude: SITE.longitude,
     },
-    publicAccess: true,
-    petsAllowed: true,
+    hasMap: SITE.mapsShareUrl,
+    sameAs: [
+      SITE.mapsShareUrl,
+      SITE.officialTourismUrl,
+      SITE.managementUrl,
+      SITE.unescoUrl,
+    ],
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: SITE.rating,
+      bestRating: '5',
+      reviewCount: SITE.reviewCount,
+    },
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: messages?.breadcrumb?.home || 'Home',
+        item: `${SITE.url}/${locale}`,
+      },
+      { '@type': 'ListItem', position: 2, name: SITE.fullName },
+      { '@type': 'ListItem', position: 3, name: SITE.city },
+      { '@type': 'ListItem', position: 4, name: SITE.province },
+      { '@type': 'ListItem', position: 5, name: SITE.country },
+    ],
   };
 
   return (
     <>
       <script
         type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }}
+      />
+      <script
+        type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
       />
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(placeSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <Header />
       <main>
         <Hero />
+        <Breadcrumb />
         <Intro />
+        <NearbyLandmarks />
         <BasicInfo />
+        <WeatherSection />
         <FloraFaunaCards />
         <HistoryTimeline />
         <RouteSection />
+        <TrailsSection />
         <HoursSection />
         <PracticalInfo />
         <TicketsSection />
+        <FacilitiesSection />
         <TransportSection />
         <Gallery />
         <Reviews />
         <MapEmbed />
+        <FaqSection />
+        <SourcesSection />
       </main>
       <Footer />
     </>

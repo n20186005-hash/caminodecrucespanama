@@ -1,25 +1,28 @@
 {
   "meta": {
-    "title": "卡米诺德克鲁塞斯国家公园 | Parque Nacional Camino de Cruces",
-    "description": "探索巴拿马的卡米诺德克鲁塞斯国家公园（Parque Nacional Camino de Cruces）。这是巴拿马省的一座国家公园，拥有丰富的生物多样性和历史文化遗产，是徒步和生态旅游的理想场所。"
+    "title": "卡米诺德克鲁塞斯国家公园 (Parque Nacional Camino de Cruces, Panamá) | 徒步与游客指南",
+    "description": "巴拿马卡米诺德克鲁塞斯国家公园（Parque Nacional Camino de Cruces）徒步与游客指南：历史古道、热带雨林野生动物、地图、开放时间、门票价格与交通方式。"
   },
   "header": {
     "home": "首页",
+    "senderos": "徒步",
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
+    "faq": "常见问题",
     "backToHome": "返回首页"
   },
   "hero": {
     "title": "Parque Nacional Camino de Cruces",
-    "subtitle": "卡米诺德克鲁塞斯国家公园 · 巴拿马",
+    "subtitle": "卡米诺德克鲁塞斯国家公园 · Panamá, Provincia de Panamá, 巴拿马",
     "rating": "4.5",
-    "reviewCount": "5,770",
+    "reviewCount": "5,786",
     "hours": "国家公园",
     "openMaps": "查看位置"
   },
   "intro": {
     "title": "探索卡米诺德克鲁塞斯国家公园",
+    "semantic": "欢迎来到 Parque Nacional Camino de Cruces（卡米诺德克鲁塞斯国家公园）——也就是广为人知的 Camino de Cruces（克鲁塞斯之路）。它坐落于巴拿马城（Panamá）所在的巴拿马省（Provincia de Panamá）、巴拿马（Panama）。这片占地 9000 英亩的热带森林保护区设有步道，植被茂密、野生生物丰富，是旅行者探访巴拿马雨林与历史的核心门户。",
     "description": "准备好踏上一场穿越时空的雨林探险了吗？卡米诺德克鲁塞斯国家公园不仅仅是一座保护着巴拿马原始生态的自然宝库，更是一座“活着的历史博物馆”。在茂密的热带雨林树冠下，你将亲脚踩在 16 世纪西班牙人铺设的原始鹅卵石古道上——几百年前，数不清的南美洲黄金与白银正是通过你脚下的这条小径运往大西洋。\n\n伴随着远处吼猴的叫声，你可以近距离观察树懒、巨嘴鸟以及在林间穿梭的蓝闪蝶。这里是历史遗迹与狂野自然的完美交汇处。由于雨林环境复杂且古道保留了原始风貌，我们强烈建议您穿戴专业的徒步装备，并在上午及早入园，或聘请经验丰富的本地向导，以获得最安全、最深度的探险体验。",
     "visitGuide": {
       "title": "游览建议",
@@ -239,7 +242,68 @@
   "mapSection": {
     "title": "地图位置",
     "subtitle": "2CH7+X8V, Panamá, Provincia de Panamá, 巴拿马",
-    "openMaps": "在 Google Maps 查看位置"
+    "openMaps": "在 Google Maps 查看位置",
+    "officialInfo": "如需了解 Parque Nacional Camino de Cruces 的最新官方动态与区域旅游资讯，请访问",
+    "officialLinkText": "巴拿马官方旅游局（Visit Panama）— Camino de Cruces 国家公园专页"
+  },
+  "breadcrumb": {
+    "home": "首页",
+    "park": "Parque Nacional Camino de Cruces",
+    "geo": "Panamá · Provincia de Panamá · 巴拿马",
+    "ariaLabel": "面包屑导航"
+  },
+  "landmarks": {
+    "title": "卡米诺德克鲁塞斯国家公园周边地标与景点 (Landmarks & Attractions Around Camino de Cruces in Panamá)",
+    "subtitle": "参观 Parque Nacional Camino de Cruces（卡米诺德克鲁塞斯国家公园）时，游客可以轻松探索周边的历史地标与知名景点，例如巴拿马运河（Panama Canal）与索贝拉尼亚国家公园（Parque Nacional Soberanía）。",
+    "geoLabel": "地理归属：Parque Nacional Camino de Cruces → Panamá → Provincia de Panamá → 巴拿马",
+    "items": [
+      {
+        "name": "巴拿马运河 & 米拉弗洛雷斯船闸 (Miraflores Locks)",
+        "desc": "世界七大工程奇迹之一的巴拿马运河就在公园附近。在米拉弗洛雷斯游客中心观景台上，可以亲眼目睹巨轮逐级升降的震撼场面。"
+      },
+      {
+        "name": "索贝拉尼亚国家公园 (Parque Nacional Soberanía)",
+        "desc": "与卡米诺德克鲁塞斯同属巴拿马运河流域的雨林保护区，以观鸟闻名，著名的 Pipeline Road 是观察美洲众多鸟类的黄金步道。"
+      },
+      {
+        "name": "甘博阿与查格雷斯河 (Gamboa & Chagres River)",
+        "desc": "古镇甘博阿地处运河与查格雷斯河交汇处，这里是当年 Camino de Cruces 水路终点的现代版本，可参加丛林巡游与树冠吊桥体验。"
+      },
+      {
+        "name": "巴拿马老城遗址 (Panamá Viejo)",
+        "desc": "1671 年被亨利·摩根烧毁的古城遗址是巴拿马城的发源地。Camino de Cruces 的起点正与这段城市诞生史紧密相连。"
+      }
+    ]
+  },
+  "sources": {
+    "title": "资料来源 (Sources)",
+    "intro": "本页面的地址、评分与评价数量来自 Google Maps 上「Parque Nacional Camino de Cruces」商户页；门票、管理与开放时间信息来自巴拿马政府官方渠道（.gob）；历史与生态资料来自官方机构公开文献。",
+    "items": [
+      {
+        "label": "Google Maps 商户页 — Parque Nacional Camino de Cruces",
+        "url": "https://maps.app.goo.gl/YAmB6VusVrvnhaDs6"
+      },
+      {
+        "label": "巴拿马环境部 MiAMBIENTE（.gob 官方）",
+        "url": "https://miambiente.gob.pa/"
+      },
+      {
+        "label": "巴拿马官方旅游局 Visit Panama — 国家公园专页",
+        "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
+      },
+      {
+        "label": "UNESCO 世界遗产预备名单 — Camino de Cruces",
+        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+      },
+      {
+        "label": "巴拿马文化部 MiCultura — 跨地峡殖民路线",
+        "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
+      },
+      {
+        "label": "Google 学术 — Camino de Cruces 历史与考古文献",
+        "url": "https://scholar.google.com/scholar?q=Camino+de+Cruces+archaeological+excavation"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Parque Nacional Camino de Cruces. 保留所有权利。",
@@ -270,6 +334,7 @@
       }
     },
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。",
+    "imageCredit": "图片产权：本网站所展示的所有图片产权及版权均归原摄影者所有。",
     "furtherReadingTitle": "延伸阅读 (Further Reading)",
     "furtherReading": {
       "paper1": {
@@ -404,10 +469,20 @@
         "title": "20世纪及以后 - 设立国家公园",
         "plaque": "生态与历史的保护",
         "description": "随着环境保护意识的提高，该地区被设立为国家公园，以保护其丰富的雨林生物多样性和珍贵的历史文化遗产。"
+      },
+      {
+        "year": "1671",
+        "title": "亨利·摩根焚毁巴拿马城，古道走向没落",
+        "plaque": "Panamá Viejo · 巴拿马老城遗址",
+        "description": "1671 年，威尔士船长亨利·摩根率私掠队横穿地峡逼近巴拿马城并纵火焚城，古城沦为废墟。此后西班牙王室将跨洋贸易重心移回大西洋侧的波托贝洛，Camino de Cruces 逐渐废弃。丛林重新吞没石砖古道，只留下“古路通向失落古城”的传奇图景，直至近代考古与生态保护让它重获新生。"
       }
     ],
     "guideTitle": "游客导览建议",
-    "guideContent": "游客在参观时，可以先从公园主入口进入，获取地图并了解公园的历史背景；随后沿着16世纪原始的鹅卵石古道徒步，感受殖民时期的交通要道；如果您有充足的时间，可以观察丰富的热带雨林生态系统，寻找吼猴、树懒等野生动物。最后在公园内的观景点休息，感受巴拿马野性自然与历史底蕴的完美交汇。"
+    "guideContent": "游客在参观时，可以先从公园主入口进入，获取地图并了解公园的历史背景；随后沿着16世纪原始的鹅卵石古道徒步，感受殖民时期的交通要道；如果您有充足的时间，可以观察丰富的热带雨林生态系统，寻找吼猴、树懒等野生动物。最后在公园内的观景点休息，感受巴拿马野性自然与历史底蕴的完美交汇。",
+    "legend": {
+      "title": "传说与轶事",
+      "content": "数百年来，人们口耳相传着关于这条古道的故事：有人说，殖民时代经地峡转运的金银不计其数，雨季里被商队匆忙藏进岩缝与旧河港的“财宝”，至今仍沉睡在丛林深处，等待后人发现；也有人相信，晨雾弥漫的石桥与废弃驿站旁，偶尔还能看到当年背夫与骡队缓缓而过的身影。这些多属于民间传说，并无史料直接佐证，却让 Camino de Cruces 与巴拿马的记忆紧紧相连。以审慎而浪漫的眼光聆听它们，正是走进这座公园文化深处的最好方式。"
+    }
   },
   "floraFauna": {
     "title": "物种档案卡 (Species Archives)",
@@ -450,6 +525,36 @@
       "content": "难度评级：中等至困难（取决于季节）。全长约 10 公里（单程），累计爬升约 200 米。完成整个经典穿越路段通常需要 4-6 小时的精准时间，请务必合理规划体力。"
     }
   },
+  "trails": {
+    "sectionTitle": "徒步路线（Senderos）",
+    "subtitle": "公园内既保留了历史古道 Camino de Cruces，也拥有适合不同水平游客的热带雨林步道。以下是规划徒步行程的主要路线：",
+    "note": "距离与用时仅供参考。出发前请在公园管理处确认当天路况，并建议聘请本地向导。",
+    "items": [
+      {
+        "name": "Camino de Cruces 历史古道",
+        "difficulty": "难度：中等至困难",
+        "distance": "长度：约 10 公里（单程）",
+        "duration": "用时：4-6 小时（单程）",
+        "description": "公园的标志性步道：沿 16 世纪西班牙殖民者铺设的鹅卵石古道前行，它曾连接巴拿马老城（Panamá La Vieja）与查格雷斯河畔、靠近甘博阿（Gamboa）的 Venta de Cruces。一路仿佛行走在活的历史中，丛林里回荡着吼猴、巨嘴鸟与树懒的声音。对体能有一定要求，强烈建议聘请本地向导同行。"
+      },
+      {
+        "name": "El Pescador 步道（渔夫步道）",
+        "difficulty": "难度：轻松至中等",
+        "distance": "长度：约 3 公里",
+        "duration": "用时：1-2 小时",
+        "description": "一条较短、大部分路段有树荫的路线，可下到河边，适合观鸟并在雨林中休息。因河中有鳄鱼与蛇，禁止下水游泳。"
+      },
+      {
+        "name": "Búho de Anteojos 步道（眼镜鸮步道）",
+        "difficulty": "难度：中等",
+        "distance": "长度：约 2 公里",
+        "duration": "用时：1-1.5 小时",
+        "description": "一条部分路段较陡的小型步道，以林中栖息的眼镜鸮命名，非常适合观鸟，无需专业经验。"
+      }
+    ],
+    "nearbyTitle": "运河流域附近的步道",
+    "nearbyContent": "历史道路网一直延伸到公园边界之外。在相邻的索贝拉尼亚国家公园（Parque Nacional Soberanía），你还可以沿世界闻名的 Pipeline Road 观鸟，或走适合全家出行的短途步道 Sendero El Charco，距离巴拿马城仅很短车程。"
+  },
   "faq": {
     "title": "常见问题 (FAQ)",
     "questions": [
@@ -468,7 +573,136 @@
       {
         "q": "什么时候是游览的最佳季节？",
         "a": "旱季（12月-4月）是徒步的最佳季节，此时天气晴朗路况较好。雨季（5月-11月）古道极其湿滑，徒步难度大幅增加。"
+      },
+      {
+        "q": "卡米诺德克鲁塞斯国家公园离巴拿马城近吗？",
+        "a": "近。Parque Nacional Camino de Cruces 位于巴拿马省（Provincia de Panamá）的巴拿马城（Panamá）周边，距离市中心约 20-30 分钟车程，紧邻巴拿马运河流域，可自驾或参加旅行团前往。"
+      },
+      {
+        "q": "不请向导可以自己徒步吗？",
+        "a": "可以在开放时间内自行徒步，但我们强烈建议聘请熟悉雨林的本地向导。步道地处偏远、标识有限，向导既能保障安全，也能帮您更好地发现吼猴、树懒等野生动物。"
+      },
+      {
+        "q": "卡米诺德克鲁塞斯国家公园有哪些主要徒步路线？",
+        "a": "公园的主要路线包括：历史古道 Camino de Cruces（单程约 10 公里，4-6 小时）、El Pescador 渔夫步道（约 3 公里，轻松至中等）以及 Búho de Anteojos 眼镜鸮步道（约 2 公里，中等）。出发前请在公园管理处确认当天路况。"
       }
     ]
+  },
+  "facilities": {
+    "sectionTitle": "游客服务与周边设施",
+    "subtitle": "我们以中立视角整理公园及其周边的常见服务设施类型，仅作出行参考：不推荐任何特定商户、不涉及商业赞助，请以现场实际情况为准。",
+    "note": "温馨提示：热带雨林园区基础设施有限，请备好饮用水、防晒与防蚊用品，并提前规划补给。",
+    "items": [
+      [
+        "公共卫生间",
+        "园内主要入口附近提供基础公共卫生间，数量有限且较简朴；建议自带纸巾与免洗洗手液。"
+      ],
+      [
+        "停车场",
+        "公园入口附近设有停车区域，旺季车位可能紧张。建议尽早抵达、锁好车门，勿将贵重物品留在车内。"
+      ],
+      [
+        "餐饮类型",
+        "园区内不设大型餐厅，常见的是提供本地小吃、饮品与简餐的小型摊位类型；也可自带野餐在指定区域用餐。"
+      ],
+      [
+        "住宿类型",
+        "计划多日游览的游客，可在周边区域选择生态小屋、丛林旅馆、青年旅舍或连锁酒店等住宿类型，请按预算提前预订。"
+      ],
+      [
+        "商超与便利店",
+        "前往公园前，可在附近城镇（如 Gamboa、Ancón）的超市与便利店补充饮用水、零食、驱蚊液等物资。"
+      ],
+      [
+        "加油站",
+        "最近的加油站多位于通向 Gamboa 或巴拿马城方向的主干道沿线；建议出发前将油箱加满。"
+      ],
+      [
+        "充电设施",
+        "部分主干道加油站的停车区设有电动汽车充电桩，可用导航软件提前确认位置与可用状态。"
+      ],
+      [
+        "医疗与急救",
+        "园区内不设医疗机构；紧急情况请拨打当地急救电话 911。请携带常用药品与个人急救包，距离较近的综合性医院位于巴拿马城。"
+      ],
+      [
+        "通讯与网络",
+        "公园大部分区域手机信号弱或没有信号，建议提前下载离线地图并告知家人行程安排。"
+      ]
+    ]
+  },
+  "weather": {
+    "sectionTitle": "公园实时天气与未来预报",
+    "subtitle": "公园地处热带雨林，天气变化快，出发前看一眼温度与降雨概率，记得带伞与防雨装备。",
+    "location": "Parque Nacional Camino de Cruces · Panamá",
+    "nowTitle": "当前天气",
+    "feelsLike": "体感",
+    "humidity": "湿度",
+    "wind": "风速",
+    "precipToday": "今日降水概率",
+    "forecastTitle": "未来多日预报",
+    "today": "今天",
+    "updatedAt": "数据更新于",
+    "loading": "正在获取当地天气信息…",
+    "unavailable": "天气信息暂时无法获取，请稍后刷新页面，或参考当地气象部门预报。",
+    "refresh": "刷新数据",
+    "unitKmh": "千米/小时",
+    "codes": {
+      "clear": "晴朗",
+      "partly": "多云间晴",
+      "overcast": "阴天",
+      "fog": "有雾",
+      "drizzle": "毛毛雨",
+      "rain": "降雨",
+      "showers": "阵雨",
+      "snow": "降雪",
+      "snowShowers": "阵雪",
+      "thunder": "雷阵雨"
+    },
+    "advice": {
+      "title": "天气出行建议",
+      "now": "当前：{cond} · {temp}° · 降水概率 {prob}% · {wind}",
+      "uvLabel": "紫外线",
+      "labels": {
+        "outfit": "出行穿搭",
+        "activity": "游玩安排",
+        "gear": "随身物品"
+      },
+      "riskTitle": "风险提醒",
+      "noRisk": "暂无强降雨、雷暴或大风等风险预警，可正常按计划游玩；出行仍请留意天气变化。",
+      "wind": {
+        "calm": "微风",
+        "moderate": "清风",
+        "fresh": "风力较大",
+        "strong": "大风",
+        "gale": "狂风"
+      },
+      "uv": {
+        "none": "—",
+        "low": "弱",
+        "moderate": "中等",
+        "high": "强",
+        "veryhigh": "很强"
+      },
+      "outfit_heat": "气温较高：穿轻薄透气、速干的衣物。",
+      "outfit_layers": "昼夜温差较大：清晨徒步备一件薄外套。",
+      "outfit_rain": "可能降雨：穿防滑鞋和带帽防水衣物。",
+      "act_clear": "天气晴朗：适合走历史古道与观鸟。建议清晨入园，早晨动物更活跃。",
+      "act_overcast": "阴天无雨：光线柔和适合雨林摄影，没有暴晒更适合长时间徒步。",
+      "act_sunHigh": "11:00-15:00 阳光最强：徒步尽量安排在清晨或傍晚。",
+      "act_fog": "有雾能见度低：岔路口不易辨认，建议请向导或走短步道。",
+      "act_rainChance": "降水概率较高（≥60%）：请带上雨具，走长线前再确认一次预报。",
+      "act_drizzle": "毛毛雨：历史卵石古道湿滑，走路请放慢脚步防滑。",
+      "act_raining": "正在下雨：古道泥泞湿滑，体验较差，建议等雨停再走。",
+      "act_windy": "风较大：林间行走注意高空坠枝。",
+      "gear_umbrella": "折叠伞",
+      "gear_raincoat": "轻便雨衣（风大时比长柄伞更实用）",
+      "gear_sunscreen": "防晒霜、遮阳帽、墨镜",
+      "gear_water": "饮用水 1.5-2L",
+      "gear_mosquito": "驱蚊液（雨林必备）",
+      "risk_thunder": "雷雨天气：远离高大树木、空旷地带与河道；雷雨时应暂停徒步。",
+      "risk_rain": "强降雨：避开山谷、低洼地与河岸，当心山洪。",
+      "risk_wind": "大风天气：远离大树与临时搭建物；河上船游可能停运。"
+    }
   }
 }

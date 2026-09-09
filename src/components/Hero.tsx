@@ -1,17 +1,19 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function Hero() {
   const t = useTranslations('hero');
-  const mapsUrl = "https://maps.app.goo.gl/YAmB6VusVrvnhaDs6";
+  const mapsUrl = SITE.mapsShareUrl;
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/parque-nacional-camino-de-cruces-1.jpg"
-          alt="Parque Nacional Camino de Cruces"
+          src={SITE.heroImage}
+          alt={SITE.heroImageAlt}
           className="w-full h-full object-cover"
+          loading="eager"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

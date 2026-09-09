@@ -1,25 +1,28 @@
 {
   "meta": {
-    "title": "Parque Nacional Camino de Cruces | Camino de Cruces National Park",
-    "description": "Explora el Parque Nacional Camino de Cruces en la provincia de Panamá, Panamá. Un parque nacional con rica biodiversidad y patrimonio histórico, ideal para senderismo y ecoturismo."
+    "title": "Parque Nacional Camino de Cruces, Panamá | Senderos y Guía del Visitante",
+    "description": "Guía para visitar el Parque Nacional Camino de Cruces en Panamá: senderos históricos y de selva tropical, vida silvestre, mapa, horarios, precios de entrada y cómo llegar desde la Ciudad de Panamá."
   },
   "header": {
     "home": "Inicio",
+    "senderos": "Senderos",
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
+    "faq": "FAQ",
     "backToHome": "Volver al Inicio"
   },
   "hero": {
     "title": "Parque Nacional Camino de Cruces",
-    "subtitle": "Parque Nacional Camino de Cruces · Panamá",
+    "subtitle": "Parque Nacional Camino de Cruces · Panamá, Provincia de Panamá, Panamá",
     "rating": "4.5",
-    "reviewCount": "5,770",
+    "reviewCount": "5,786",
     "hours": "Parque Nacional",
     "openMaps": "Ver Ubicación"
   },
   "intro": {
     "title": "Explora el Parque Nacional Camino de Cruces",
+    "semantic": "Bienvenido al Parque Nacional Camino de Cruces, ampliamente reconocido como el Camino de Cruces. Ubicado en el corazón de Panamá, Provincia de Panamá, Panamá, esta reserva de bosque tropical de 9,000 acres, con senderos, frondosa vegetación y abundante vida silvestre, es el punto de partida ideal para los viajeros que visitan la región.",
     "description": "¿Listo para una aventura en la selva tropical a través del tiempo? El Parque Nacional Camino de Cruces no es solo un tesoro natural que protege la ecología prístina de Panamá, sino también un \"museo de historia viva\". Bajo el denso dosel del bosque tropical, caminarás sobre los senderos empedrados originales del siglo XVI construidos por los españoles—hace siglos, incontables cantidades de oro y plata de América del Sur fueron transportadas hacia el Atlántico a lo largo de este mismo camino.\n\nAcompañado por los llamados de los monos aulladores en la distancia, puedes observar de cerca perezosos, tucanes y mariposas morfo azules revoloteando entre los árboles. Esta es la intersección perfecta entre ruinas históricas y naturaleza salvaje. Debido al complejo entorno de la selva tropical y a la condición primitiva del sendero, recomendamos encarecidamente usar equipo de senderismo profesional, llegar temprano en la mañana o contratar a un guía local experimentado para la aventura más segura y profunda.",
     "visitGuide": {
       "title": "Consejos de Visita",
@@ -239,7 +242,68 @@
   "mapSection": {
     "title": "Ubicación y Mapa",
     "subtitle": "2CH7+X8V, Panamá, Provincia de Panamá, Panamá",
-    "openMaps": "Ver en Google Maps"
+    "openMaps": "Ver en Google Maps",
+    "officialInfo": "Para actualizaciones oficiales e información turística regional, visita ",
+    "officialLinkText": "Autoridad de Turismo de Panamá (Visit Panama) - Página del Parque Nacional Camino de Cruces"
+  },
+  "breadcrumb": {
+    "home": "Inicio",
+    "park": "Parque Nacional Camino de Cruces",
+    "geo": "Panamá · Provincia de Panamá · Panamá",
+    "ariaLabel": "Miga de pan"
+  },
+  "landmarks": {
+    "title": "Lugares de Interés Alrededor de Camino de Cruces en Panamá",
+    "subtitle": "Al visitar el Parque Nacional Camino de Cruces, los visitantes pueden explorar fácilmente los monumentos históricos y puntos de interés cercanos, incluyendo el Canal de Panamá y el Parque Nacional Soberanía.",
+    "geoLabel": "Ubicación geográfica: Parque Nacional Camino de Cruces → Panamá → Provincia de Panamá → Panamá",
+    "items": [
+      {
+        "name": "Canal de Panamá y Esclusas de Miraflores",
+        "desc": "Una de las Siete Maravillas del Mundo Moderno está a minutos del parque. Desde la plataforma de observación del Centro de Visitantes de Miraflores, contempla en vivo cómo enormes barcos suben y bajan por las esclusas."
+      },
+      {
+        "name": "Parque Nacional Soberanía",
+        "desc": "Una reserva de selva tropical que comparte la cuenca del Canal de Panamá con Camino de Cruces. Famosa por la observación de aves, su Pipeline Road es uno de los mejores senderos del mundo para ver aves tropicales."
+      },
+      {
+        "name": "Gamboa y el Río Chagres",
+        "desc": "El pueblo ribereño de Gamboa se encuentra donde el canal se une al río Chagres, la versión moderna del histórico punto final acuático de Camino de Cruces. Hay paseos en bote por la selva y puentes colgantes cerca."
+      },
+      {
+        "name": "Panamá Viejo (Ruinas de la Ciudad Vieja)",
+        "desc": "Las ruinas de la ciudad quemada en 1671 son donde nació la Ciudad de Panamá, y la historia del lado pacífico de Camino de Cruces está estrechamente ligada a este sitio histórico de la UNESCO."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Fuentes y Referencias",
+    "intro": "La dirección, la calificación y el número de reseñas de esta página provienen del perfil comercial de 'Parque Nacional Camino de Cruces' en Google Maps; la información sobre boletos, gestión y horarios proviene de canales oficiales del gobierno de Panamá (.gob); el contenido histórico y ecológico se basa en registros públicos de instituciones oficiales.",
+    "items": [
+      {
+        "label": "Perfil comercial de Google Maps - Parque Nacional Camino de Cruces",
+        "url": "https://maps.app.goo.gl/YAmB6VusVrvnhaDs6"
+      },
+      {
+        "label": "Ministerio de Ambiente de Panamá (MiAMBIENTE) - sitio oficial .gob",
+        "url": "https://miambiente.gob.pa/"
+      },
+      {
+        "label": "Visit Panama - Página de Parques Nacionales de la Autoridad de Turismo",
+        "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
+      },
+      {
+        "label": "UNESCO Lista Indicativa del Patrimonio Mundial - Camino de Cruces",
+        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+      },
+      {
+        "label": "Ministerio de Cultura de Panamá (MiCultura) - Ruta Colonial Transístmica",
+        "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
+      },
+      {
+        "label": "Google Scholar - Historia y arqueología de Camino de Cruces",
+        "url": "https://scholar.google.com/scholar?q=Camino+de+Cruces+archaeological+excavation"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Parque Nacional Camino de Cruces. Todos los derechos reservados.",
@@ -270,6 +334,7 @@
       }
     },
     "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No tenemos afiliación con el gobierno local u otras instituciones oficiales.",
+    "imageCredit": "Propiedad de las imágenes: todas las imágenes mostradas en este sitio web son propiedad de sus fotógrafos originales; todos los derechos y copyrights pertenecen a los respectivos fotógrafos.",
     "furtherReadingTitle": "Otras Lecturas",
     "furtherReading": {
       "paper1": {
@@ -404,10 +469,20 @@
         "title": "Siglo XX y más allá - Creación del Parque Nacional",
         "plaque": "Protección de la ecología y la historia",
         "description": "Con el aumento de la conciencia ambiental, el área fue establecida como parque nacional para proteger su rica biodiversidad selvática y su precioso patrimonio histórico y cultural."
+      },
+      {
+        "year": "1671",
+        "title": "Henry Morgan Incendia la Ciudad de Panamá y el Camino Decae",
+        "plaque": "Panamá Viejo · Ruinas de la Ciudad Vieja",
+        "description": "En 1671 el corsario galés Henry Morgan cruzó el istmo, saqueó la Ciudad de Panamá y la incendió. Después, la Corona española volvió a trasladar el comercio transístmico a Portobelo, en el Caribe, y el Camino de Cruces quedó en desuso. La selva recuperó la calzada de piedra y solo quedó la leyenda de un camino hacia una ciudad perdida, hasta que la arqueología y la conservación lo revivieron."
       }
     ],
     "guideTitle": "Recomendaciones para visitantes",
-    "guideContent": "Los visitantes pueden ingresar por la entrada principal del parque, obtener un mapa y conocer los antecedentes históricos del parque; luego caminar por el sendero empedrado original del siglo XVI para experimentar el centro de transporte colonial; si tiene suficiente tiempo, puede observar el rico ecosistema de la selva tropical y buscar vida silvestre como monos aulladores y perezosos. Finalmente, descanse en los miradores del parque para sentir la intersección perfecta de la naturaleza salvaje y el patrimonio histórico de Panamá."
+    "guideContent": "Los visitantes pueden ingresar por la entrada principal del parque, obtener un mapa y conocer los antecedentes históricos del parque; luego caminar por el sendero empedrado original del siglo XVI para experimentar el centro de transporte colonial; si tiene suficiente tiempo, puede observar el rico ecosistema de la selva tropical y buscar vida silvestre como monos aulladores y perezosos. Finalmente, descanse en los miradores del parque para sentir la intersección perfecta de la naturaleza salvaje y el patrimonio histórico de Panamá.",
+    "legend": {
+      "title": "Leyendas y Folclore",
+      "content": "Durante siglos se han contado historias sobre este antiguo camino. Dicen que el oro y la plata movidos por el istmo en la época colonial eran tantos que los tesoros escondidos a toda prisa en grietas de roca y viejos puertos fluviales por las recuas de mulas aún duermen en la selva, esperando ser hallados. Otros creen que, en las mañanas de niebla, junto a puentes de piedra y antiguos tambos, se alcanzan a ver las siluetas de porteadores y mulas. La mayoría son leyendas populares sin respaldo documental directo, pero unen al Camino de Cruces con la memoria colectiva de Panamá. Escucharlas con curiosidad y prudencia es la mejor forma de entrar en la profundidad cultural de este parque."
+    }
   },
   "floraFauna": {
     "title": "Archivos de Especies",
@@ -450,6 +525,36 @@
       "content": "Calificación de Dificultad: Moderada a Difícil (dependiendo de la temporada). La longitud total es de unos 10 km (solo ida) con un desnivel positivo de unos 200 metros. Completar el cruce clásico generalmente requiere de 4 a 6 horas de tiempo preciso, así que administre su resistencia en consecuencia."
     }
   },
+  "trails": {
+    "sectionTitle": "Senderos y Rutas de Senderismo",
+    "subtitle": "El parque protege el histórico Camino de Cruces y senderos de selva tropical para todos los niveles. Estos son los principales para planificar tu caminata:",
+    "note": "Distancias y tiempos orientativos. Antes de salir, confirma las condiciones del día en la oficina del parque y considera contratar un guía local.",
+    "items": [
+      {
+        "name": "Sendero Camino de Cruces (Camino Histórico)",
+        "difficulty": "Dificultad: Moderada a Difícil",
+        "distance": "Longitud: ≈ 10 km (solo ida)",
+        "duration": "Tiempo: 4-6 horas (solo ida)",
+        "description": "El sendero estrella del parque: sigue la calzada empedrada original del siglo XVI que unía Panamá La Vieja con Venta de Cruces, a orillas del río Chagres, cerca de Gamboa. Caminas sobre historia viva mientras la selva resuena con monos aulladores, tucanes y perezosos. Exige buen estado físico y es muy recomendable hacerlo con guía local."
+      },
+      {
+        "name": "Sendero El Pescador",
+        "difficulty": "Dificultad: Fácil a Moderada",
+        "distance": "Longitud: ≈ 3 km",
+        "duration": "Tiempo: 1-2 horas",
+        "description": "Ruta corta y mayormente sombreada que desciende hasta la orilla del río: ideal para observar aves y descansar en plena naturaleza. Está prohibido nadar por la presencia de cocodrilos y serpientes."
+      },
+      {
+        "name": "Sendero Búho de Anteojos",
+        "difficulty": "Dificultad: Moderada",
+        "distance": "Longitud: ≈ 2 km",
+        "duration": "Tiempo: 1-1.5 horas",
+        "description": "Sendero corto con algunos tramos empinados, perfecto para la observación de aves; debe su nombre al búho de anteojos que habita el bosque. No requiere experiencia previa."
+      }
+    ],
+    "nearbyTitle": "Senderos cercanos en la cuenca del Canal",
+    "nearbyContent": "El sendero histórico continúa más allá de los límites del parque. En el vecino Parque Nacional Soberanía puedes ampliar tu aventura por el mundialmente famoso Pipeline Road para observar aves, o por el corto y familiar Sendero El Charco, a poca distancia de la Ciudad de Panamá."
+  },
   "faq": {
     "title": "Preguntas Frecuentes (FAQ)",
     "questions": [
@@ -468,7 +573,136 @@
       {
         "q": "¿Cuándo es la mejor temporada para visitar?",
         "a": "La temporada seca (diciembre-abril) es el mejor momento para hacer senderismo, con clima despejado y mejores condiciones en los senderos. Durante la temporada de lluvias (mayo-noviembre), el sendero se vuelve extremadamente resbaladizo, aumentando significativamente la dificultad del senderismo."
+      },
+      {
+        "q": "¿El Parque Nacional Camino de Cruces está cerca de la Ciudad de Panamá?",
+        "a": "Sí. El Parque Nacional Camino de Cruces se encuentra cerca de la Ciudad de Panamá, en la Provincia de Panamá, a unos 20-30 minutos en coche del centro y junto a la cuenca del Canal de Panamá. Se recomienda conducir o unirse a un tour desde la Ciudad de Panamá."
+      },
+      {
+        "q": "¿Puedo caminar por el sendero sin guía?",
+        "a": "Puedes caminar de forma independiente durante el horario de apertura, pero se recomienda encarecidamente contratar a un guía local experimentado. Los senderos de la selva son remotos y con poca señalización; un guía te mantiene seguro y te ayuda a observar vida silvestre como monos aulladores y perezosos."
+      },
+      {
+        "q": "¿Cuáles son los principales senderos del Parque Nacional Camino de Cruces?",
+        "a": "Los principales senderos del parque son el histórico Sendero Camino de Cruces (unos 10 km solo de ida, 4-6 horas), el Sendero El Pescador (unos 3 km, fácil a moderado) y el Sendero Búho de Anteojos (unos 2 km, moderado). Antes de iniciar la caminata, consulta en la oficina del parque el estado actual de los senderos."
       }
     ]
+  },
+  "facilities": {
+    "sectionTitle": "Servicios al Visitante e Instalaciones Cercanas",
+    "subtitle": "Enumeramos tipos comunes de servicios cerca del parque desde un punto de vista neutral y solo como referencia: no recomendamos negocios específicos ni existe patrocinio comercial. Consulta siempre las condiciones reales en el sitio.",
+    "note": "Consejo: las instalaciones dentro de este parque tropical son básicas. Lleva agua potable, protector solar y repelente, y planifica tus suministros.",
+    "items": [
+      [
+        "Baños públicos",
+        "Hay baños públicos básicos cerca de las entradas principales; son limitados y sencillos, así que lleva tu propio papel y gel antibacterial."
+      ],
+      [
+        "Estacionamiento",
+        "Hay áreas de estacionamiento cerca de las entradas que se llenan en temporada alta. Llega temprano, cierra bien el auto y no dejes objetos de valor."
+      ],
+      [
+        "Opciones de comida",
+        "No hay restaurantes grandes dentro del parque; lo habitual son pequeños puestos con bocadillos y bebidas locales, o puedes llevar tu propia comida."
+      ],
+      [
+        "Opciones de alojamiento",
+        "Para visitas de varios días, la zona ofrece eco-lodges, posadas de selva, hostales y hoteles de cadena. Reserva con antelación según tu presupuesto."
+      ],
+      [
+        "Tiendas y supermercados",
+        "Antes de salir, abastécete de agua, snacks y repelente en supermercados o tiendas de pueblos cercanos como Gamboa o Ancón."
+      ],
+      [
+        "Gasolineras",
+        "Las gasolineras más cercanas están en las carreteras hacia Gamboa o la Ciudad de Panamá; llena el tanque antes de partir."
+      ],
+      [
+        "Carga eléctrica",
+        "Algunas gasolineras de la vía principal tienen bahías de carga para vehículos eléctricos; confirma con una app de navegación."
+      ],
+      [
+        "Salud y primeros auxilios",
+        "No hay servicios médicos dentro del parque. En emergencias llama al 911; lleva tu medicación habitual y un botiquín básico. Los hospitales principales están en la Ciudad de Panamá."
+      ],
+      [
+        "Telefonía y conectividad",
+        "La señal móvil es débil o inexistente en gran parte del parque. Descarga mapas sin conexión y avisa a alguien de tu itinerario."
+      ]
+    ]
+  },
+  "weather": {
+    "sectionTitle": "Clima en Vivo y Pronóstico de Varios Días",
+    "subtitle": "Este parque de selva tropical tiene clima cambiante. Revisa la temperatura y la probabilidad de lluvia antes de salir y lleva paraguas.",
+    "location": "Parque Nacional Camino de Cruces · Panamá",
+    "nowTitle": "Clima actual",
+    "feelsLike": "Sensación",
+    "humidity": "Humedad",
+    "wind": "Viento",
+    "precipToday": "Prob. de lluvia hoy",
+    "forecastTitle": "Pronóstico para varios días",
+    "today": "Hoy",
+    "updatedAt": "Actualizado",
+    "loading": "Cargando el clima local…",
+    "unavailable": "Los datos del clima no están disponibles por ahora. Intenta refrescar más tarde o consulta el servicio meteorológico local.",
+    "refresh": "Actualizar",
+    "unitKmh": "km/h",
+    "codes": {
+      "clear": "Despejado",
+      "partly": "Parcialmente nublado",
+      "overcast": "Nublado",
+      "fog": "Niebla",
+      "drizzle": "Llovizna",
+      "rain": "Lluvia",
+      "showers": "Chubascos",
+      "snow": "Nieve",
+      "snowShowers": "Chubascos de nieve",
+      "thunder": "Tormenta eléctrica"
+    },
+    "advice": {
+      "title": "Consejos de visita según el clima",
+      "now": "Ahora: {cond} · {temp}° · lluvia {prob}% · {wind}",
+      "uvLabel": "Índice UV",
+      "labels": {
+        "outfit": "Qué llevar puesto",
+        "activity": "Plan de visita",
+        "gear": "Qué empacar"
+      },
+      "riskTitle": "Riesgos",
+      "noRisk": "Sin alertas de clima severo para hoy: no se esperan lluvia fuerte, tormentas ni viento fuerte. Disfruta del parque con las precauciones habituales.",
+      "wind": {
+        "calm": "viento suave",
+        "moderate": "brisa",
+        "fresh": "viento notable",
+        "strong": "viento fuerte",
+        "gale": "viento muy fuerte"
+      },
+      "uv": {
+        "none": "—",
+        "low": "baja",
+        "moderate": "moderada",
+        "high": "alta",
+        "veryhigh": "muy alta"
+      },
+      "outfit_heat": "Hace calor: ropa ligera, transpirable y de secado rápido.",
+      "outfit_layers": "Amplitud térmica notable: lleva una chaqueta ligera para la mañana.",
+      "outfit_rain": "Posible lluvia: usa calzado antideslizante y ropa con capucha.",
+      "act_clear": "Día despejado, ideal para la ruta histórica y la observación de aves; entra temprano, los animales están más activos por la mañana.",
+      "act_overcast": "Nublado sin lluvia: luz suave para fotografiar la selva y buen clima para caminatas largas sin sol intenso.",
+      "act_sunHigh": "Entre las 11 y las 15 h el sol es más fuerte: programa la caminata a primera hora o al atardecer.",
+      "act_fog": "Niebla con poca visibilidad: cuesta distinguir las bifurcaciones del sendero; mejor ir con guía o por rutas cortas.",
+      "act_rainChance": "Probabilidad de lluvia alta (60 % o más): lleva paraguas y revisa el pronóstico antes de una caminata larga.",
+      "act_drizzle": "Llovizna: el empedrado histórico queda resbaladizo, camina despacio.",
+      "act_raining": "Está lloviendo: el sendero se vuelve lodoso y resbaladizo; considera esperar a que escampe.",
+      "act_windy": "Viento notable: en el bosque vigila posibles ramas o árboles caídos.",
+      "gear_umbrella": "Paraguas plegable",
+      "gear_raincoat": "Impermeable ligero (si hay viento, mejor que un paraguas largo)",
+      "gear_sunscreen": "Protector solar, gorra y gafas de sol",
+      "gear_water": "Agua (1,5-2 L) para la ruta",
+      "gear_mosquito": "Repelente de mosquitos (selva tropical)",
+      "risk_thunder": "Tormenta eléctrica: evita árboles altos, zonas abiertas y la orilla del río; suspende la caminata hasta que pase.",
+      "risk_rain": "Lluvia intensa: evita barrancos, zonas bajas y riberas; puede haber crecidas repentinas.",
+      "risk_wind": "Viento fuerte: aléjate de árboles grandes y estructuras temporales; los paseos en bote pueden suspenderse."
+    }
   }
 }

@@ -1,8 +1,9 @@
 import { useTranslations } from 'next-intl';
+import { SITE } from '@/lib/site';
 
 export default function MapEmbed() {
   const t = useTranslations('mapSection');
-  const mapsUrl = "https://maps.app.goo.gl/YAmB6VusVrvnhaDs6";
+  const mapsUrl = SITE.mapsShareUrl;
 
   return (
     <section id="map" className="section-padding" style={{ background: 'var(--bg-secondary)' }}>
@@ -26,16 +27,31 @@ export default function MapEmbed() {
             This is for visual cleanliness only. Google's Terms of Service apply.
           */}
           <iframe
-            src="https://maps.google.com/maps?q=Parque+Nacional+Camino+de+Cruces,+Panama&t=&z=15&ie=UTF8&iwloc=&output=embed"
+            src={SITE.mapsEmbedSrc}
             width="100%"
             height="450"
             style={{ border: 0 }}
             allowFullScreen
             loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
+            referrerPolicy="strict-origin-when-cross-origin"
             title="Google Maps - Parque Nacional Camino de Cruces"
           />
         </div>
+
+        {/* Official tourism portal link */}
+        <p className="mt-6 text-sm leading-relaxed" style={{ color: 'var(--text-muted)' }}>
+          {t('officialInfo')}{' '}
+          <a
+            href={SITE.officialTourismUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="hover:underline"
+            style={{ color: 'var(--accent)' }}
+          >
+            {t('officialLinkText')}
+          </a>
+          .
+        </p>
 
         {/* Open in Google Maps */}
         <div className="mt-6 flex justify-center">

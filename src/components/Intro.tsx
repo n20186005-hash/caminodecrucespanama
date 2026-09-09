@@ -20,6 +20,13 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
+          className="text-lg leading-relaxed mb-4"
+          style={{ color: 'var(--text-primary)', fontWeight: 500 }}
+        >
+          {t('semantic')}
+        </p>
+
+        <p
           className="text-lg leading-relaxed mb-12"
           style={{ color: 'var(--text-secondary)' }}
         >

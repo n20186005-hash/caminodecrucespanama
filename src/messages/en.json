@@ -1,25 +1,28 @@
 {
   "meta": {
-    "title": "Parque Nacional Camino de Cruces | Camino de Cruces National Park",
-    "description": "Explore Parque Nacional Camino de Cruces in Panama Province, Panama. A national park with rich biodiversity and historical heritage, ideal for hiking and ecotourism."
+    "title": "Camino de Cruces National Park (Panama) | Hiking Trails & Visitor Guide",
+    "description": "Plan your visit to Camino de Cruces National Park (Parque Nacional Camino de Cruces) in Panama: hiking trails, rainforest wildlife, maps, opening hours, entrance fees and how to get there."
   },
   "header": {
     "home": "Home",
+    "senderos": "Trails",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "faq": "FAQ",
     "backToHome": "Back to Home"
   },
   "hero": {
     "title": "Parque Nacional Camino de Cruces",
-    "subtitle": "Camino de Cruces National Park · Panama",
+    "subtitle": "Camino de Cruces National Park · Panamá, Provincia de Panamá, Panama",
     "rating": "4.5",
-    "reviewCount": "5,770",
+    "reviewCount": "5,786",
     "hours": "National Park",
     "openMaps": "View Location"
   },
   "intro": {
     "title": "Explore Parque Nacional Camino de Cruces",
+    "semantic": "Welcome to Parque Nacional Camino de Cruces, widely recognized as the central Camino de Cruces. Located in the heart of Panamá, Provincia de Panamá, Panama, this 9,000-acre tropical forest reserve with trails, lush vegetation and abundant wildlife serves as a primary hub for travelers visiting the region.",
     "description": "Ready for a rainforest adventure through time? Parque Nacional Camino de Cruces is not just a natural treasure protecting Panama's pristine ecology, but also a \"living history museum.\" Beneath the dense canopy of the tropical rainforest, you will walk on the original 16th-century cobblestone trails laid by the Spanish—centuries ago, countless amounts of gold and silver from South America were transported to the Atlantic along this very path.\n\nAccompanied by the calls of howler monkeys in the distance, you can get a close look at sloths, toucans, and blue morpho butterflies fluttering through the trees. This is the perfect intersection of historical ruins and wild nature. Because of the complex rainforest environment and the trail's primitive condition, we strongly recommend wearing professional hiking gear, arriving early in the morning, or hiring an experienced local guide for the safest and most immersive adventure.",
     "visitGuide": {
       "title": "Visiting Tips",
@@ -239,7 +242,68 @@
   "mapSection": {
     "title": "Location & Map",
     "subtitle": "2CH7+X8V, Panamá, Provincia de Panamá, Panama",
-    "openMaps": "View on Google Maps"
+    "openMaps": "View on Google Maps",
+    "officialInfo": "For official updates and regional tourism information, visit ",
+    "officialLinkText": "Panama Tourism Authority (Visit Panama) - Camino de Cruces National Park page"
+  },
+  "breadcrumb": {
+    "home": "Home",
+    "park": "Parque Nacional Camino de Cruces",
+    "geo": "Panamá · Provincia de Panamá · Panama",
+    "ariaLabel": "Breadcrumb"
+  },
+  "landmarks": {
+    "title": "Landmarks & Attractions Around Camino de Cruces in Panamá",
+    "subtitle": "When visiting Parque Nacional Camino de Cruces, visitors can easily explore surrounding historical landmarks and points of interest, including the Panama Canal and Soberanía National Park.",
+    "geoLabel": "Geographic location: Parque Nacional Camino de Cruces → Panamá → Provincia de Panamá → Panama",
+    "items": [
+      {
+        "name": "Panama Canal & Miraflores Locks",
+        "desc": "One of the Seven Wonders of the Modern World lies just minutes from the park. From the Miraflores Visitor Center observation deck, watch massive ships rise and lower through the canal locks in real time."
+      },
+      {
+        "name": "Soberanía National Park",
+        "desc": "A rainforest reserve that shares the Panama Canal watershed with Camino de Cruces. Famous for birdwatching, its Pipeline Road is one of the best trails in the world for spotting tropical birds."
+      },
+      {
+        "name": "Gamboa & the Chagres River",
+        "desc": "The riverside town of Gamboa sits where the canal meets the Chagres River - the modern version of Camino de Cruces' historic water endpoint. Jungle boat tours and canopy bridges are available nearby."
+      },
+      {
+        "name": "Panamá Viejo (Old Panama Ruins)",
+        "desc": "The burned 1671 city ruins are where Panama City was born, and Camino de Cruces' Pacific-side story is closely tied to this UNESCO-listed historic site."
+      }
+    ]
+  },
+  "sources": {
+    "title": "Sources & References",
+    "intro": "The address, rating and review count on this page come from the 'Parque Nacional Camino de Cruces' Google Maps business profile; ticket, management and opening-hour information comes from official Panamanian government (.gob) channels; historical and ecological content is based on public records from official institutions.",
+    "items": [
+      {
+        "label": "Google Maps Business Profile - Parque Nacional Camino de Cruces",
+        "url": "https://maps.app.goo.gl/YAmB6VusVrvnhaDs6"
+      },
+      {
+        "label": "Ministry of Environment of Panama (MiAMBIENTE) - official .gob site",
+        "url": "https://miambiente.gob.pa/"
+      },
+      {
+        "label": "Visit Panama - Panama Tourism Authority National Parks page",
+        "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
+      },
+      {
+        "label": "UNESCO World Heritage Tentative List - Camino de Cruces",
+        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+      },
+      {
+        "label": "Ministry of Culture of Panama (MiCultura) - Trans-Isthmian Colonial Route",
+        "url": "https://micultura.gob.pa/ruta-colonial-transistmica-busca-su-inscripcion-en-el-patrimonio-mundial-de-la-unesco/"
+      },
+      {
+        "label": "Google Scholar - Camino de Cruces history & archaeology",
+        "url": "https://scholar.google.com/scholar?q=Camino+de+Cruces+archaeological+excavation"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Parque Nacional Camino de Cruces. All rights reserved.",
@@ -270,6 +334,7 @@
       }
     },
     "disclaimer": "This website is an independent third-party travel information project. We have no affiliation with local government or other official institutions.",
+    "imageCredit": "Image Ownership: All images displayed on this website are the property of their original photographers; all rights and copyrights belong to the respective photographers.",
     "furtherReadingTitle": "Further Reading",
     "furtherReading": {
       "paper1": {
@@ -404,10 +469,20 @@
         "title": "20th Century & Beyond - National Park Established",
         "plaque": "Protection of ecology and history",
         "description": "With rising environmental awareness, the area was established as a national park to protect its rich rainforest biodiversity and precious historical and cultural heritage."
+      },
+      {
+        "year": "1671",
+        "title": "Henry Morgan Burns Panama City and the Road Declines",
+        "plaque": "Panamá Viejo · Old Panama Ruins",
+        "description": "In 1671 the Welsh privateer Henry Morgan led his men across the isthmus, sacked Panama City and burned it to the ground. Afterward the Spanish Crown shifted trans-isthmian trade back to Portobelo on the Caribbean coast, and the Camino de Cruces fell into disuse. The jungle reclaimed the cobbled road, leaving only the legend of a road leading to a lost city until archaeology and conservation brought it back to life."
       }
     ],
     "guideTitle": "Visitor Guide Recommendations",
-    "guideContent": "Visitors can enter through the main park entrance, obtain a map, and learn about the park's historical background; then hike along the original 16th-century cobblestone trail to experience the colonial transportation hub; if you have enough time, you can observe the rich tropical rainforest ecosystem and look for wildlife like howler monkeys and sloths. Finally, rest at the park's viewpoints to feel the perfect intersection of Panama's wild nature and historical heritage."
+    "guideContent": "Visitors can enter through the main park entrance, obtain a map, and learn about the park's historical background; then hike along the original 16th-century cobblestone trail to experience the colonial transportation hub; if you have enough time, you can observe the rich tropical rainforest ecosystem and look for wildlife like howler monkeys and sloths. Finally, rest at the park's viewpoints to feel the perfect intersection of Panama's wild nature and historical heritage.",
+    "legend": {
+      "title": "Legends & Folklore",
+      "content": "For centuries people have passed down stories about this ancient road. Some say the amount of gold and silver moved across the isthmus in colonial times was so great that treasure hastily hidden in rock crevices and old river ports by merchant trains still sleeps in the jungle, waiting to be found. Others believe that on misty mornings, near old stone bridges and abandoned way stations, one can glimpse the silhouettes of porters and mule trains. Most of these tales belong to folklore and lack direct historical evidence, yet they tie the Camino de Cruces tightly to Panama's collective memory. Listening to them with both care and wonder is one of the best ways to enter the cultural depths of this park."
+    }
   },
   "floraFauna": {
     "title": "Species Archives",
@@ -450,6 +525,36 @@
       "content": "Difficulty Rating: Moderate to Hard (depending on the season). Total length is about 10 km (one way) with an elevation gain of around 200 meters. Completing the classic crossing typically requires 4-6 hours of precise time, so please manage your stamina accordingly."
     }
   },
+  "trails": {
+    "sectionTitle": "Hiking Trails & Routes",
+    "subtitle": "The park protects the historic Camino de Cruces plus rainforest trails for every level. These are the main trails to plan your hike around:",
+    "note": "Distances and times are indicative. Check current trail conditions at the park office before heading out and consider hiring a local guide.",
+    "items": [
+      {
+        "name": "Camino de Cruces Trail (Historic Path)",
+        "difficulty": "Difficulty: Moderate to Hard",
+        "distance": "Length: ≈ 10 km (one way)",
+        "duration": "Time: 4-6 hours (one way)",
+        "description": "The park's signature trail: it follows the original 16th-century cobblestone road that linked Panamá La Vieja with Venta de Cruces on the Chagres River near Gamboa. You walk on living history while the forest echoes with howler monkeys, toucans and sloths. A good fitness level is required and a local guide is highly recommended."
+      },
+      {
+        "name": "El Pescador Trail",
+        "difficulty": "Difficulty: Easy to Moderate",
+        "distance": "Length: ≈ 3 km",
+        "duration": "Time: 1-2 hours",
+        "description": "A short, mostly shaded route that descends to the riverbank, ideal for birdwatching and resting in the rainforest. Swimming is prohibited because of crocodiles and snakes."
+      },
+      {
+        "name": "Spectacled Owl Trail (Búho de Anteojos)",
+        "difficulty": "Difficulty: Moderate",
+        "distance": "Length: ≈ 2 km",
+        "duration": "Time: 1-1.5 hours",
+        "description": "A compact trail with some steep sections, perfect for birders and named after the spectacled owls that live in the forest. No previous experience is required."
+      }
+    ],
+    "nearbyTitle": "Nearby trails in the Canal watershed",
+    "nearbyContent": "The historic trail network continues beyond the park borders. In neighbouring Soberanía National Park you can extend your adventure on the world-famous Pipeline Road for birdwatching, or on the short, family-friendly Sendero El Charco, just a short drive from Panama City."
+  },
   "faq": {
     "title": "Frequently Asked Questions (FAQ)",
     "questions": [
@@ -468,7 +573,136 @@
       {
         "q": "When is the best season to visit?",
         "a": "The dry season (December-April) is the best time for hiking, with clear weather and better trail conditions. During the rainy season (May-November), the trail becomes extremely slippery, significantly increasing the hiking difficulty."
+      },
+      {
+        "q": "Is Parque Nacional Camino de Cruces close to Panama City?",
+        "a": "Yes. Parque Nacional Camino de Cruces is located near Panamá City in Provincia de Panamá, roughly 20-30 minutes' drive from the city center and next to the Panama Canal watershed. Self-driving or joining a tour from Panama City is recommended."
+      },
+      {
+        "q": "Can I hike the trail without a guide?",
+        "a": "You can hike independently during opening hours, but hiring an experienced local guide is strongly recommended. The rainforest trails are remote with limited signage; a guide keeps you safe and helps you spot wildlife such as howler monkeys and sloths."
+      },
+      {
+        "q": "What are the main hiking trails in Parque Nacional Camino de Cruces?",
+        "a": "The park's main trails are the historic Camino de Cruces Trail (about 10 km one way, 4-6 hours), El Pescador Trail (about 3 km, easy to moderate) and the Spectacled Owl Trail (Búho de Anteojos, about 2 km, moderate). Check current trail conditions at the park office before you start."
       }
     ]
+  },
+  "facilities": {
+    "sectionTitle": "Visitor Services & Nearby Facilities",
+    "subtitle": "We list common facility types around the park from a neutral standpoint as a reference only: no specific businesses are recommended and no commercial sponsorship is involved. Please always check on-site conditions.",
+    "note": "Tip: facilities inside this tropical park are basic. Bring drinking water, sunscreen and insect repellent, and plan your supplies ahead.",
+    "items": [
+      [
+        "Restrooms",
+        "Basic public restrooms are available near the main entrances; they are limited and simple, so bring your own tissue and hand sanitiser."
+      ],
+      [
+        "Parking",
+        "Parking areas exist near the entrances and can fill up in high season. Arrive early, lock your car and never leave valuables inside."
+      ],
+      [
+        "Dining options",
+        "There are no large restaurants inside the park; typical options are small stalls offering local snacks, drinks and light meals, or you can bring your own picnic."
+      ],
+      [
+        "Accommodation options",
+        "For multi-day trips, surrounding areas offer eco-lodges, jungle inns, hostels and chain hotels. Book ahead according to your budget."
+      ],
+      [
+        "Grocery stores & convenience shops",
+        "Before heading out, stock up on water, snacks and repellent at supermarkets or convenience stores in nearby towns such as Gamboa or Ancón."
+      ],
+      [
+        "Fuel stations",
+        "The nearest fuel stations are on the main roads towards Gamboa or Panama City; fill your tank before you go."
+      ],
+      [
+        "EV charging",
+        "Some fuel stations along the main roads have EV charging bays; check availability with a navigation app before departing."
+      ],
+      [
+        "Medical & first aid",
+        "No medical facilities exist inside the park. In an emergency call 911; carry your usual medication and a personal first-aid kit. Major hospitals are in Panama City."
+      ],
+      [
+        "Mobile & connectivity",
+        "Phone signals are weak or absent across most of the park. Download offline maps and tell someone your itinerary before you enter."
+      ]
+    ]
+  },
+  "weather": {
+    "sectionTitle": "Live Weather & Multi-Day Forecast",
+    "subtitle": "This tropical rainforest park has fast-changing weather. Check the temperature and rain chance before you head out, and pack an umbrella.",
+    "location": "Parque Nacional Camino de Cruces · Panama",
+    "nowTitle": "Current weather",
+    "feelsLike": "Feels like",
+    "humidity": "Humidity",
+    "wind": "Wind",
+    "precipToday": "Rain chance today",
+    "forecastTitle": "Multi-day forecast",
+    "today": "Today",
+    "updatedAt": "Updated",
+    "loading": "Loading local weather…",
+    "unavailable": "Weather data is temporarily unavailable. Please refresh later or check the local weather service.",
+    "refresh": "Refresh",
+    "unitKmh": "km/h",
+    "codes": {
+      "clear": "Clear",
+      "partly": "Partly cloudy",
+      "overcast": "Overcast",
+      "fog": "Foggy",
+      "drizzle": "Light drizzle",
+      "rain": "Rain",
+      "showers": "Showers",
+      "snow": "Snow",
+      "snowShowers": "Snow showers",
+      "thunder": "Thunderstorm"
+    },
+    "advice": {
+      "title": "Smart advice for your visit",
+      "now": "Now: {cond} · {temp}° · rain {prob}% · {wind}",
+      "uvLabel": "UV index",
+      "labels": {
+        "outfit": "What to wear",
+        "activity": "Things to do",
+        "gear": "Pack list"
+      },
+      "riskTitle": "Risk alert",
+      "noRisk": "No severe-weather alerts for today: no heavy rain, storms or strong wind expected. Enjoy the park with the usual precautions.",
+      "wind": {
+        "calm": "light wind",
+        "moderate": "breeze",
+        "fresh": "fresh wind",
+        "strong": "strong wind",
+        "gale": "gale-force wind"
+      },
+      "uv": {
+        "none": "—",
+        "low": "low",
+        "moderate": "moderate",
+        "high": "high",
+        "veryhigh": "very high"
+      },
+      "outfit_heat": "It's hot: wear light, breathable, quick-dry clothing.",
+      "outfit_layers": "Large temperature swing: bring a light layer for the early morning.",
+      "outfit_rain": "Rain possible: wear non-slip shoes and a hooded, water-resistant layer.",
+      "act_clear": "Clear day — great for the historic trail and birdwatching. Enter early; wildlife is most active in the morning.",
+      "act_overcast": "Overcast but dry: soft light is great for rainforest photos and long hikes without harsh sun.",
+      "act_sunHigh": "The sun is strongest between 11 a.m. and 3 p.m.: schedule hiking for early morning or late afternoon.",
+      "act_fog": "Fog limits visibility and makes trail junctions harder to spot — go with a guide or stick to short trails.",
+      "act_rainChance": "High rain chance (60%+): carry an umbrella and re-check the forecast before a long hike.",
+      "act_drizzle": "Light drizzle: the historic cobblestones become slippery — walk slowly.",
+      "act_raining": "It's raining: the trail turns muddy and slippery; consider waiting for the rain to ease.",
+      "act_windy": "Windy conditions: watch for falling branches or trees in the forest.",
+      "gear_umbrella": "Compact umbrella",
+      "gear_raincoat": "Light rain jacket (better than a long umbrella when windy)",
+      "gear_sunscreen": "Sunscreen, hat and sunglasses",
+      "gear_water": "Water (1.5-2 L) for the trail",
+      "gear_mosquito": "Mosquito repellent (rainforest)",
+      "risk_thunder": "Thunderstorm: avoid tall trees, open areas and the riverbank; pause your hike until it passes.",
+      "risk_rain": "Heavy rain: stay away from gullies, low-lying areas and riverbanks — flash floods are possible.",
+      "risk_wind": "Strong wind: keep clear of large trees and temporary structures; boat trips may be suspended."
+    }
   }
 }

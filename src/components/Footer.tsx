@@ -18,7 +18,9 @@ export default function Footer() {
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
             <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              Parque Nacional Camino de Cruces
+              <a href={prefix} className="hover:underline" style={{ color: 'var(--text-primary)' }}>
+                Parque Nacional Camino de Cruces
+              </a>
             </h3>
             <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
               {t('officialResourcesTitle')}
@@ -81,6 +83,7 @@ export default function Footer() {
         >
           <p>{t('rights')}</p>
           <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('disclaimer')}</p>
+          <p className="text-xs max-w-3xl mx-auto leading-relaxed">{t('imageCredit')}</p>
         </div>
       </div>
     </footer>
