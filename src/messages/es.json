@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parque Nacional Camino de Cruces, Panamá | Senderos y Guía del Visitante",
-    "description": "Guía para visitar el Parque Nacional Camino de Cruces en Panamá: senderos históricos y de selva tropical, vida silvestre, mapa, horarios, precios de entrada y cómo llegar desde la Ciudad de Panamá."
+    "title": "Parque Nacional Camino de Cruces: Senderos, Acceso y Entradas",
+    "description": "Guía del Parque Nacional Camino de Cruces en Panamá: senderos, cómo llegar, entradas e historia. Consulta el estado de apertura antes de tu visita."
   },
   "header": {
     "home": "Inicio",
@@ -16,7 +16,7 @@
     "title": "Parque Nacional Camino de Cruces",
     "subtitle": "Parque Nacional Camino de Cruces · Panamá, Provincia de Panamá, Panamá",
     "rating": "4.5",
-    "reviewCount": "5,786",
+    "reviewCount": "5,789",
     "hours": "Parque Nacional",
     "openMaps": "Ver Ubicación"
   },
@@ -27,7 +27,7 @@
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
-        "El parque está abierto todo el año, se recomienda ingresar temprano en la mañana",
+        "Confirma el estado de apertura en MiAMBIENTE antes de tu visita; el parque puede cerrarse por clima o mantenimiento",
         "Se recomienda encarecidamente contratar un guía profesional, ya que la selva tropical es compleja y es fácil perderse",
         "Usa mangas largas y pantalones largos para prevenir picaduras de mosquitos, y lleva mucha agua potable",
         "Durante la temporada de lluvias, el sendero es extremadamente resbaladizo, por lo que debes priorizar tu seguridad"
@@ -107,7 +107,7 @@
   "hours": {
     "title": "Horarios de Apertura",
     "outdoor": "Horario del Parque",
-    "outdoorTime": "Diariamente 08:00 - 16:00",
+    "outdoorTime": "Generalmente 08:00 - 16:00 (puede variar)",
     "lighthouse": "Mejor Época para Visitar",
     "summer": "Temporada Seca (diciembre-abril)",
     "summerTime": "Dic-Abr: Clima agradable, temporada ideal para senderismo",
@@ -115,7 +115,11 @@
     "winterTime": "May-Nov: El sendero es extremadamente resbaladizo en la temporada de lluvias, y las lluvias por la tarde son comunes. Se recomiendan visitas temprano en la mañana.",
     "warning": "Aviso de Hora de Entrada",
     "warningTime": "Dado que completar la caminata toma de 4 a 6 horas, los guardaparques generalmente prohíben la entrada de nuevos excursionistas después de la 1:00 p.m. o 2:00 p.m. para evitar que las personas queden varadas en la selva después del anochecer.",
-    "tip": "Recomendamos encarecidamente ingresar temprano en la mañana para la aventura más segura y profunda."
+    "tip": "Recomendamos encarecidamente ingresar temprano en la mañana para la aventura más segura y profunda.",
+    "verify": "Verifica el estado antes de salir",
+    "verifyText": "El parque puede cerrarse temporalmente por fuertes lluvias, vientos o trabajos de mantenimiento. Consulta el aviso oficial de MiAMBIENTE antes de tu visita; no des por hecho que está abierto hoy.",
+    "closure": "Cierre temporal (agosto de 2026)",
+    "closureText": "En agosto de 2026 MiAMBIENTE anunció el cierre temporal del parque por árboles caídos y senderos bloqueados tras tormentas. No tenemos confirmación de una reapertura total; verifica el estado actual en el enlace oficial."
   },
   "tickets": {
     "title": "Información Práctica y Guía de Boletos",
@@ -124,11 +128,12 @@
       "foreigners": "Turistas Extranjeros",
       "foreignersPrice": "$5.00 USD",
       "nationals": "Nacionales y Residentes",
-      "nationalsPrice": "$3.00 USD",
+      "nationalsPrice": "$2.00 USD",
       "students": "Estudiantes y Jubilados",
       "studentsPrice": "$1.00 USD",
       "children": "Niños menores de 12 años",
-      "childrenPrice": "Gratis"
+      "childrenPrice": "Gratis",
+      "priceNote": "Los precios son indicativos y pueden cambiar; confírmalos en el sitio oficial de MiAMBIENTE antes de tu visita."
     },
     "booking": {
       "title": "📱 Información de Reserva y Entrada",
@@ -188,6 +193,8 @@
     "title": "Reseñas de Visitantes",
     "declaration": "La información de las reseñas se puede ver a través de Google Maps (enlace externo).",
     "moreReviews": "Ver Más Reseñas en Google Maps",
+      "reviewsCount": "reseñas",
+      "sourceNote": "Calificación y número de reseñas sincronizados desde Google Maps (verificado octubre 2026).",
     "items": [
       {
         "name": "Carlos M.",
@@ -246,6 +253,88 @@
     "officialInfo": "Para actualizaciones oficiales e información turística regional, visita ",
     "officialLinkText": "Autoridad de Turismo de Panamá (Visit Panama) - Página del Parque Nacional Camino de Cruces"
   },
+  "status": {
+    "title": "Estado de apertura del parque",
+    "updated": "Última verificación: 9 de octubre de 2026",
+    "badge": "Verifica antes de salir",
+    "body": "En agosto de 2026 el Ministerio de Ambiente (MiAMBIENTE) anunció el cierre temporal del parque por la caída de árboles y senderos bloqueados tras fuertes vientos y lluvias. No contamos con una confirmación oficial de reapertura total. Antes de tu visita, consulta el aviso oficial y confirma si el parque y cada sendero están abiertos.",
+    "linkText": "Aviso oficial de MiAMBIENTE",
+    "linkUrl": "https://miambiente.gob.pa/",
+    "note": "Este sitio es una guía de información independiente y no garantiza el estado actual de apertura."
+  },
+  "topicLinks": {
+    "title": "Guías prácticas",
+    "subtitle": "Información útil para planear tu visita al parque",
+    "senderos": "Senderos y rutas",
+    "comoLlegar": "Cómo llegar",
+    "entradas": "Entradas y horarios",
+    "more": "Ver guía"
+  },
+  "topics": {
+    "senderos": {
+      "title": "Senderos del Parque Nacional Camino de Cruces",
+      "subtitle": "Rutas históricas y de selva tropical para todos los niveles",
+      "intro": "El parque protege el histórico Camino de Cruces y varios senderos de selva tropical. Aquí tienes las rutas principales con longitud, dificultad y consejos de seguridad. Recuerda confirmar el estado de los senderos en la oficina del parque antes de salir.",
+      "sections": [
+        {
+          "heading": "Sendero Camino de Cruces (Camino Histórico)",
+          "body": "El sendero estrella sigue la calzada empedrada original del siglo XVI que unía Panamá La Vieja con Venta de Cruces, en el río Chagres. Mide unas 12.5 km solo de ida (4-6 horas) y exige buen estado físico. Es muy recomendable ir con guía local."
+        },
+        {
+          "heading": "Sendero El Pescador",
+          "body": "Ruta corta (unos 3 km, 1-2 horas) mayormente sombreada que desciende a la orilla del río. Ideal para observar aves. Está prohibido nadar por cocodrilos y serpientes."
+        },
+        {
+          "heading": "Sendero Búho de Anteojos",
+          "body": "Sendero de unos 2 km (1-1.5 horas), moderado, con tramos empinados. Perfecto para observación de aves; no requiere experiencia previa."
+        },
+        {
+          "heading": "Seguridad y preparación",
+          "body": "Calzado antideslizante, agua (1.5-2 L), repelente y lluvia. La señal es débil: descarga mapas offline. En temporada de lluvias (mayo-noviembre) las piedras están muy resbaladizas."
+        }
+      ],
+      "faq": [
+        { "q": "¿Cuál es la longitud del sendero histórico?", "a": "El Sendero Camino de Cruces mide unas 12.5 km solo de ida, con un tiempo típico de 4 a 6 horas. Lleva suficiente agua y sale temprano." },
+        { "q": "¿Se puede hacer sin guía?", "a": "Sí, pero se recomienda guía local: la selva es remota, la señal es débil y un guía mejora la seguridad y la observación de vida silvestre." },
+        { "q": "¿Hay senderos para principiantes?", "a": "Sí: El Pescador (3 km) y Búho de Anteojos (2 km) son más cortos y accesibles. El histórico es el más exigente." },
+        { "q": "¿Dónde empiezan los senderos?", "a": "Desde la entrada principal del parque, donde obtienes un mapa. Confirma el estado de cada sendero en la oficina antes de iniciar." }
+      ]
+    },
+    "comoLlegar": {
+      "title": "Cómo llegar al Parque Nacional Camino de Cruces",
+      "subtitle": "Entrada, transporte público y opciones en coche",
+      "intro": "El parque está en la Provincia de Panamá, a unos 20-30 minutos en coche de la Ciudad de Panamá, junto a la cuenca del Canal. Aquí tienes las opciones para llegar.",
+      "sections": [
+        { "heading": "En coche o taxi", "body": "Desde la Ciudad de Panamá, conduce hacia la zona de Gamboa/Ancón y sigue la señalización al parque. Hay estacionamiento gratuito en la entrada." },
+        { "heading": "Desde el aeropuerto (PTY)", "body": "El Aeropuerto Internacional de Tocumen está a unos 30 minutos. Lo más práctico es rentar un coche o tomar un taxi." },
+        { "heading": "Transporte público y tours", "body": "Puedes tomar buses desde la Ciudad de Panamá hasta la zona cercana y luego un taxi, o unirte a un tour organizado desde la ciudad." },
+        { "heading": "Consejos prácticos", "body": "Llega temprano: la oficina suele limitar la entrada de nuevos caminantes después de las 13:00-14:00. No hay servicios dentro del parque; abastecete en Gamboa o Ancón." }
+      ],
+      "faq": [
+        { "q": "¿Está cerca de la Ciudad de Panamá?", "a": "Sí, a unos 20-30 minutos en coche, junto a la cuenca del Canal de Panamá." },
+        { "q": "¿Hay transporte público?", "a": "Sí, buses desde la ciudad hasta la zona cercana y luego taxi; o tours organizados desde Panamá." },
+        { "q": "¿Se puede llegar fácilmente en transporte público?", "a": "El tramo final suele requerir taxi o tour, ya que el parque queda algo alejado de las rutas principales." },
+        { "q": "¿Dónde aparcar?", "a": "Hay estacionamiento gratuito en la entrada principal; en temporada alta puede llenarse, así que ve temprano." }
+      ]
+    },
+    "entradas": {
+      "title": "Entradas y horarios del Parque Nacional Camino de Cruces",
+      "subtitle": "Tarifas, horario de apertura y estado actual",
+      "intro": "La entrada se gestiona por MiAMBIENTE y suele requerir compra anticipada en línea. Los precios son indicativos; confirma la tarifa actual en el sitio oficial antes de tu visita.",
+      "sections": [
+        { "heading": "Tarifas", "body": "Turistas extranjeros $5.00 USD, residentes nacionales $2.00 USD, estudiantes y jubilados $1.00 USD, y menores de 12 años gratis. Compra en línea y genera un código QR de entrada." },
+        { "heading": "Horario", "body": "Generalmente el parque abre de 08:00 a 16:00, pero el horario puede cambiar. Los guardaparques suelen prohibir la entrada de nuevos excursionistas después de las 13:00-14:00." },
+        { "heading": "Estado de apertura", "body": "En agosto de 2026 MiAMBIENTE anunció el cierre temporal por árboles caídos y senderos bloqueados. Verifica el estado actual en el aviso oficial antes de tu visita; no asumas que está abierto hoy." },
+        { "heading": "Antes de salir", "body": "Lleva efectivo de respaldo, agua y documento si aplica. No hay restaurantes dentro del parque; planifica tus suministros." }
+      ],
+      "faq": [
+        { "q": "¿Cuánto cuesta la entrada?", "a": "Extranjeros $5.00 USD, residentes nacionales $2.00 USD, estudiantes/jubilados $1.00 USD, menores de 12 gratis. Compra en línea vía MiAMBIENTE." },
+        { "q": "¿Se compra en la entrada?", "a": "Generalmente no se acepta efectivo en la entrada; reserva y paga en línea para generar tu código QR." },
+        { "q": "¿Cuál es el horario?", "a": "Generalmente 08:00-16:00, sujeto a cambios. La entrada de nuevos caminantes suele cerrarse tras las 13:00-14:00." },
+        { "q": "¿Está abierto ahora?", "a": "Verifica el aviso oficial de MiAMBIENTE. Hubo un cierre temporal en agosto de 2026; confirma el estado actual antes de ir." }
+      ]
+    }
+  },
   "breadcrumb": {
     "home": "Inicio",
     "park": "Parque Nacional Camino de Cruces",
@@ -292,8 +381,8 @@
         "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
       },
       {
-        "label": "UNESCO Lista Indicativa del Patrimonio Mundial - Camino de Cruces",
-        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+        "label": "UNESCO Lista del Patrimonio Mundial (inscrito en 2025) - Ruta Colonial Transístmica de Panamá",
+        "url": "https://whc.unesco.org/en/list/"
       },
       {
         "label": "Ministerio de Cultura de Panamá (MiCultura) - Ruta Colonial Transístmica",
@@ -317,8 +406,8 @@
         "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
       },
       "unesco": {
-        "name": "UNESCO - Lista Indicativa del Patrimonio Mundial",
-        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+        "name": "UNESCO - Lista del Patrimonio Mundial (Ruta Colonial Transístmica, 2025)",
+        "url": "https://whc.unesco.org/en/list/"
       },
       "miambiente": {
         "name": "Ministerio de Ambiente de Panamá",
@@ -475,6 +564,12 @@
         "title": "Henry Morgan Incendia la Ciudad de Panamá y el Camino Decae",
         "plaque": "Panamá Viejo · Ruinas de la Ciudad Vieja",
         "description": "En 1671 el corsario galés Henry Morgan cruzó el istmo, saqueó la Ciudad de Panamá y la incendió. Después, la Corona española volvió a trasladar el comercio transístmico a Portobelo, en el Caribe, y el Camino de Cruces quedó en desuso. La selva recuperó la calzada de piedra y solo quedó la leyenda de un camino hacia una ciudad perdida, hasta que la arqueología y la conservación lo revivieron."
+      },
+      {
+        "year": "2025",
+        "title": "2025 - La Ruta Colonial Transístmica entra a la UNESCO",
+        "plaque": "Patrimonio Mundial",
+        "description": "En 2025 la UNESCO inscribió «The Colonial Transisthmian Route of Panamá» (la Ruta Colonial Transístmica de Panamá) en la Lista del Patrimonio Mundial. Es importante aclarar que lo inscrito es este itinerario colonial histórico —del que el Camino de Cruces forma parte—, no la totalidad del parque nacional como una unidad de gestión separada."
       }
     ],
     "guideTitle": "Recomendaciones para visitantes",
@@ -513,8 +608,8 @@
   "practicalInfo": {
     "title": "Guía Práctica de Exploración",
     "petPolicy": {
-      "title": "🐕 Política de Mascotas y Precauciones",
-      "content": "Se permiten perros en el parque. Sin embargo, debido al entorno de selva virgen, manténgalos atados en todo momento para evitar perturbar a la vida silvestre como los monos aulladores y los tucanes. Se recomienda tratar a su perro contra las garrapatas de antemano y llevar mucha agua para ellos."
+      "title": "🐕 Mascotas",
+      "content": "Por lo general, las mascotas NO están permitidas dentro de los parques nacionales de Panamá gestionados por MiAMBIENTE. Antes de traer una mascota, confirma la política vigente en el sitio oficial de MiAMBIENTE, ya que puede variar según el área y la temporada."
     },
     "trailConditions": {
       "title": "🥾 Condiciones Reales del Sendero y Consejos Geológicos",
@@ -522,7 +617,7 @@
     },
     "difficulty": {
       "title": "⛰️ Calificación de Dificultad de Senderismo",
-      "content": "Calificación de Dificultad: Moderada a Difícil (dependiendo de la temporada). La longitud total es de unos 10 km (solo ida) con un desnivel positivo de unos 200 metros. Completar el cruce clásico generalmente requiere de 4 a 6 horas de tiempo preciso, así que administre su resistencia en consecuencia."
+      "content": "Calificación de Dificultad: Moderada a Difícil (dependiendo de la temporada). La longitud total es de unos 12.5 km (solo ida) con un desnivel positivo de unos 200 metros. Completar el cruce clásico generalmente requiere de 4 a 6 horas de tiempo preciso, así que administre su resistencia en consecuencia."
     }
   },
   "trails": {
@@ -533,7 +628,7 @@
       {
         "name": "Sendero Camino de Cruces (Camino Histórico)",
         "difficulty": "Dificultad: Moderada a Difícil",
-        "distance": "Longitud: ≈ 10 km (solo ida)",
+        "distance": "Longitud: ≈ 12.5 km (solo ida)",
         "duration": "Tiempo: 4-6 horas (solo ida)",
         "description": "El sendero estrella del parque: sigue la calzada empedrada original del siglo XVI que unía Panamá La Vieja con Venta de Cruces, a orillas del río Chagres, cerca de Gamboa. Caminas sobre historia viva mientras la selva resuena con monos aulladores, tucanes y perezosos. Exige buen estado físico y es muy recomendable hacerlo con guía local."
       },
@@ -560,15 +655,15 @@
     "questions": [
       {
         "q": "¿Cuánto cuesta la entrada al Parque Nacional Camino de Cruces?",
-        "a": "Los boletos para adultos extranjeros cuestan $5.00 USD, para residentes nacionales $3.00 USD, estudiantes y jubilados $1.00 USD, y los niños menores de 12 años entran gratis. Asegúrese de comprar los boletos en línea con anticipación a través del sitio web oficial de MiAMBIENTE."
+        "a": "Los boletos para adultos extranjeros cuestan $5.00 USD, para residentes nacionales $2.00 USD, estudiantes y jubilados $1.00 USD, y los niños menores de 12 años entran gratis. Asegúrese de comprar los boletos en línea con anticipación a través del sitio web oficial de MiAMBIENTE."
       },
       {
         "q": "¿Cuánto tiempo se tarda en caminar el sendero?",
-        "a": "Completar toda la sección del cruce clásico suele llevar de 4 a 6 horas, cubriendo unos 10 km, con un nivel de dificultad de moderado a difícil. Se recomienda ingresar al parque temprano en la mañana."
+        "a": "Completar toda la sección del cruce clásico suele llevar de 4 a 6 horas, cubriendo unos 12.5 km, con un nivel de dificultad de moderado a difícil. Se recomienda ingresar al parque temprano en la mañana."
       },
       {
         "q": "¿Se permiten perros en el parque?",
-        "a": "Sí. Se permiten perros en el parque, pero deben mantenerse con correa en todo momento para evitar molestar a la vida silvestre, y se recomienda un tratamiento preventivo contra las garrapatas de antemano."
+        "a": "Por lo general, las mascotas NO están permitidas dentro de los parques nacionales de Panamá gestionados por MiAMBIENTE. Antes de traer una mascota, consulta la política vigente en el sitio oficial de MiAMBIENTE, ya que puede variar según el área."
       },
       {
         "q": "¿Cuándo es la mejor temporada para visitar?",
@@ -584,7 +679,7 @@
       },
       {
         "q": "¿Cuáles son los principales senderos del Parque Nacional Camino de Cruces?",
-        "a": "Los principales senderos del parque son el histórico Sendero Camino de Cruces (unos 10 km solo de ida, 4-6 horas), el Sendero El Pescador (unos 3 km, fácil a moderado) y el Sendero Búho de Anteojos (unos 2 km, moderado). Antes de iniciar la caminata, consulta en la oficina del parque el estado actual de los senderos."
+        "a": "Los principales senderos del parque son el histórico Sendero Camino de Cruces (unos 12.5 km solo de ida, 4-6 horas), el Sendero El Pescador (unos 3 km, fácil a moderado) y el Sendero Búho de Anteojos (unos 2 km, moderado). Antes de iniciar la caminata, consulta en la oficina del parque el estado actual de los senderos."
       }
     ]
   },

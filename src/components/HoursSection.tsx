@@ -9,6 +9,21 @@ export default function HoursSection() {
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <div
+          className="rounded-xl p-5 flex items-start gap-4 mb-8"
+          style={{ background: '#fef2f2', border: '1px solid #dc2626' }}
+        >
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="#dc2626" strokeWidth="2" className="flex-shrink-0 mt-0.5">
+            <path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z" />
+            <line x1="12" y1="9" x2="12" y2="13" />
+            <line x1="12" y1="17" x2="12.01" y2="17" />
+          </svg>
+          <div>
+            <p className="font-semibold mb-1" style={{ color: '#b91c1c' }}>{t('closure')}</p>
+            <p className="text-sm" style={{ color: '#7f1d1d' }}>{t('closureText')}</p>
+          </div>
+        </div>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -50,6 +65,21 @@ export default function HoursSection() {
             <polyline points="12 6 12 12 16 14"/>
           </svg>
           <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('tip')}</p>
+        </div>
+
+        <div
+          className="mt-6 rounded-xl p-5 flex items-start gap-4"
+          style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--accent)' }}
+        >
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="2" className="flex-shrink-0 mt-0.5">
+            <circle cx="12" cy="12" r="10" />
+            <line x1="12" y1="16" x2="12" y2="12" />
+            <line x1="12" y1="8" x2="12.01" y2="8" />
+          </svg>
+          <div>
+            <p className="font-medium mb-1" style={{ color: 'var(--text-primary)' }}>{t('verify')}</p>
+            <p className="text-sm" style={{ color: 'var(--text-secondary)' }}>{t('verifyText')}</p>
+          </div>
         </div>
       </div>
     </section>

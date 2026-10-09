@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Camino de Cruces National Park (Panama) | Hiking Trails & Visitor Guide",
-    "description": "Plan your visit to Camino de Cruces National Park (Parque Nacional Camino de Cruces) in Panama: hiking trails, rainforest wildlife, maps, opening hours, entrance fees and how to get there."
+    "title": "Camino de Cruces National Park | Trails & Visitor Guide",
+    "description": "Explore Camino de Cruces National Park in Panama. Find hiking trails, entrance fees, directions, colonial history and the latest visitor access information."
   },
   "header": {
     "home": "Home",
@@ -16,7 +16,7 @@
     "title": "Parque Nacional Camino de Cruces",
     "subtitle": "Camino de Cruces National Park · Panamá, Provincia de Panamá, Panama",
     "rating": "4.5",
-    "reviewCount": "5,786",
+    "reviewCount": "5,789",
     "hours": "National Park",
     "openMaps": "View Location"
   },
@@ -27,7 +27,7 @@
     "visitGuide": {
       "title": "Visiting Tips",
       "items": [
-        "Park is open year-round, recommended to enter early in the morning",
+        "Confirm opening status with MiAMBIENTE before your visit; the park may close due to weather or maintenance",
         "Strongly recommend hiring a professional guide, as the rainforest is complex and easy to get lost in",
         "Wear long sleeves and long pants to prevent mosquito bites, and bring plenty of drinking water",
         "During the rainy season, the trail is extremely slippery, so please prioritize safety"
@@ -107,7 +107,7 @@
   "hours": {
     "title": "Opening Hours",
     "outdoor": "Park Opening Hours",
-    "outdoorTime": "Daily 08:00 - 16:00",
+    "outdoorTime": "Generally 08:00 - 16:00 (subject to change)",
     "lighthouse": "Best Time to Visit",
     "summer": "Dry Season (December-April)",
     "summerTime": "Dec-Apr: Pleasant weather, ideal season for hiking",
@@ -115,7 +115,11 @@
     "winterTime": "May-Nov: The trail is extremely slippery in the rainy season, and afternoon showers are common. Early morning visits are recommended.",
     "warning": "Entry Time Notice",
     "warningTime": "Since completing the hike takes 4-6 hours, park rangers usually prohibit new hikers from entering after 1:00 PM or 2:00 PM to prevent people from getting stranded in the rainforest after dark.",
-    "tip": "We strongly recommend entering early in the morning for the safest and most immersive adventure."
+    "tip": "We strongly recommend entering early in the morning for the safest and most immersive adventure.",
+    "verify": "Verify status before you go",
+    "verifyText": "The park can close temporarily due to heavy rain, strong winds or maintenance work. Check MiAMBIENTE's official notice before your visit; do not assume it is open today.",
+    "closure": "Temporary closure (August 2026)",
+    "closureText": "In August 2026 MiAMBIENTE announced the temporary closure of the park after fallen trees and blocked trails caused by storms. We have no official confirmation of a full reopening; verify the current status via the official link."
   },
   "tickets": {
     "title": "Practical Information & Ticket Guide",
@@ -124,11 +128,12 @@
       "foreigners": "Foreign Adult Tourists",
       "foreignersPrice": "$5.00 USD",
       "nationals": "Nationals & Residents",
-      "nationalsPrice": "$3.00 USD",
+      "nationalsPrice": "$2.00 USD",
       "students": "Students & Retirees",
       "studentsPrice": "$1.00 USD",
       "children": "Children under 12",
-      "childrenPrice": "Free"
+      "childrenPrice": "Free",
+      "priceNote": "Prices are indicative and may change; confirm the current rate on MiAMBIENTE's official site before your visit."
     },
     "booking": {
       "title": "📱 Booking & Entry Information",
@@ -188,6 +193,8 @@
     "title": "Visitor Reviews",
     "declaration": "Review information can be viewed via Google Maps (external link).",
     "moreReviews": "View More Reviews on Google Maps",
+    "reviewsCount": "reviews",
+    "sourceNote": "Rating and review count synced from Google Maps (verified October 2026).",
     "items": [
       {
         "name": "Carlos M.",
@@ -246,6 +253,88 @@
     "officialInfo": "For official updates and regional tourism information, visit ",
     "officialLinkText": "Panama Tourism Authority (Visit Panama) - Camino de Cruces National Park page"
   },
+  "status": {
+    "title": "Park Access Status",
+    "updated": "Last verified: October 9, 2026",
+    "badge": "Verify before you go",
+    "body": "In August 2026 Panama's Ministry of Environment (MiAMBIENTE) announced the temporary closure of the park after fallen trees and blocked trails caused by strong winds and heavy rain. We have no official confirmation of a full reopening. Before your visit, check the official notice and confirm whether the park and each trail are open.",
+    "linkText": "Official MiAMBIENTE notice",
+    "linkUrl": "https://miambiente.gob.pa/",
+    "note": "This site is an independent travel information guide and does not guarantee the current opening status."
+  },
+  "topicLinks": {
+    "title": "Practical Guides",
+    "subtitle": "Useful information to plan your visit to the park",
+    "senderos": "Trails & Routes",
+    "comoLlegar": "How to Get There",
+    "entradas": "Tickets & Hours",
+    "more": "View guide"
+  },
+  "topics": {
+    "senderos": {
+      "title": "Trails of Camino de Cruces National Park",
+      "subtitle": "Historic and rainforest routes for every level",
+      "intro": "The park protects the historic Camino de Cruces and several rainforest trails. Here are the main routes with length, difficulty and safety tips. Remember to confirm trail status at the park office before you leave.",
+      "sections": [
+        {
+          "heading": "Camino de Cruces Trail (Historic Route)",
+          "body": "The flagship trail follows the original 16th-century stone causeway linking Panamá La Vieja with Venta de Cruces on the Chagres River. It is about 12.5 km one way (4-6 hours) and demands good fitness. A local guide is strongly recommended."
+        },
+        {
+          "heading": "El Pescador Trail",
+          "body": "A short route (about 3 km, 1-2 hours), mostly shaded, descending to the riverbank. Great for birdwatching. Swimming is prohibited because of crocodiles and snakes."
+        },
+        {
+          "heading": "Owl Butterfly (Búho de Anteojos) Trail",
+          "body": "A trail of about 2 km (1-1.5 hours), moderate with some steep sections. Perfect for birdwatching; no prior experience needed."
+        },
+        {
+          "heading": "Safety & preparation",
+          "body": "Non-slip footwear, water (1.5-2 L), repellent and rain gear. Signal is weak: download offline maps. In the rainy season (May-November) the stones get very slippery."
+        }
+      ],
+      "faq": [
+        { "q": "How long is the historic trail?", "a": "The Camino de Cruces Trail is about 12.5 km one way, typically 4 to 6 hours. Carry enough water and start early." },
+        { "q": "Can I hike without a guide?", "a": "Yes, but a local guide is recommended: the jungle is remote, signal is weak and a guide improves safety and wildlife spotting." },
+        { "q": "Are there beginner trails?", "a": "Yes: El Pescador (3 km) and Owl Butterfly (2 km) are shorter and more accessible. The historic trail is the most demanding." },
+        { "q": "Where do the trails start?", "a": "From the park's main entrance, where you get a map. Confirm each trail's status at the office before starting." }
+      ]
+    },
+    "comoLlegar": {
+      "title": "How to Get to Camino de Cruces National Park",
+      "subtitle": "Entrance, public transport and driving options",
+      "intro": "The park is in Panamá Province, about 20-30 minutes by car from Panama City, along the Canal watershed. Here are your options for getting there.",
+      "sections": [
+        { "heading": "By car or taxi", "body": "From Panama City, drive toward the Gamboa/Ancón area and follow signs to the park. There is free parking at the entrance." },
+        { "heading": "From the airport (PTY)", "body": "Tocumen International Airport is about 30 minutes away. Renting a car or taking a taxi is the most practical option." },
+        { "heading": "Public transport and tours", "body": "You can take buses from Panama City to the nearby area and then a taxi, or join an organized tour from the city." },
+        { "heading": "Practical tips", "body": "Arrive early: rangers often stop admitting new hikers after 13:00-14:00. There are no services inside the park; stock up in Gamboa or Ancón." }
+      ],
+      "faq": [
+        { "q": "Is it close to Panama City?", "a": "Yes, about 20-30 minutes by car, along the Panama Canal watershed." },
+        { "q": "Is there public transport?", "a": "Yes, buses from the city to the nearby area and then a taxi; or organized tours from Panama." },
+        { "q": "Can I easily get there by public transport?", "a": "The final stretch usually requires a taxi or tour, as the park is somewhat off the main routes." },
+        { "q": "Where can I park?", "a": "There is free parking at the main entrance; in high season it can fill up, so go early." }
+      ]
+    },
+    "entradas": {
+      "title": "Tickets & Hours of Camino de Cruces National Park",
+      "subtitle": "Fees, opening hours and current status",
+      "intro": "Entry is managed by MiAMBIENTE and usually requires advance online purchase. Prices are indicative; confirm the current rate on the official site before your visit.",
+      "sections": [
+        { "heading": "Fees", "body": "Foreign tourists $5.00 USD, national residents $2.00 USD, students and retirees $1.00 USD, and children under 12 free. Buy online to generate an entry QR code." },
+        { "heading": "Hours", "body": "The park generally opens 08:00-16:00, but hours can change. Rangers often stop admitting new hikers after 13:00-14:00." },
+        { "heading": "Opening status", "body": "In August 2026 MiAMBIENTE announced a temporary closure due to fallen trees and blocked trails. Verify the current status via the official notice before your visit; do not assume it is open today." },
+        { "heading": "Before you leave", "body": "Carry backup cash, water and ID if applicable. There are no restaurants inside the park; plan your supplies." }
+      ],
+      "faq": [
+        { "q": "How much is the entrance?", "a": "Foreigners $5.00 USD, national residents $2.00 USD, students/retirees $1.00 USD, under 12 free. Buy online via MiAMBIENTE." },
+        { "q": "Can I buy at the entrance?", "a": "Generally cash is not accepted at the entrance; book and pay online to generate your QR code." },
+        { "q": "What are the hours?", "a": "Generally 08:00-16:00, subject to change. New hiker entry usually closes after 13:00-14:00." },
+        { "q": "Is it open now?", "a": "Check MiAMBIENTE's official notice. There was a temporary closure in August 2026; confirm the current status before going." }
+      ]
+    }
+  },
   "breadcrumb": {
     "home": "Home",
     "park": "Parque Nacional Camino de Cruces",
@@ -292,8 +381,8 @@
         "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
       },
       {
-        "label": "UNESCO World Heritage Tentative List - Camino de Cruces",
-        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+        "label": "UNESCO World Heritage List (inscribed 2025) - The Colonial Transisthmian Route of Panamá",
+        "url": "https://whc.unesco.org/en/list/"
       },
       {
         "label": "Ministry of Culture of Panama (MiCultura) - Trans-Isthmian Colonial Route",
@@ -317,8 +406,8 @@
         "url": "https://www.tourismpanama.com/outdoors-and-nature/nature-parks/national-parks/camino-de-cruces-national-park/"
       },
       "unesco": {
-        "name": "UNESCO - World Heritage Tentative List",
-        "url": "https://whc.unesco.org/en/tentativelists/6243/"
+        "name": "UNESCO - World Heritage List (Colonial Transisthmian Route, 2025)",
+        "url": "https://whc.unesco.org/en/list/"
       },
       "miambiente": {
         "name": "Ministry of Environment of Panama",
@@ -475,6 +564,12 @@
         "title": "Henry Morgan Burns Panama City and the Road Declines",
         "plaque": "Panamá Viejo · Old Panama Ruins",
         "description": "In 1671 the Welsh privateer Henry Morgan led his men across the isthmus, sacked Panama City and burned it to the ground. Afterward the Spanish Crown shifted trans-isthmian trade back to Portobelo on the Caribbean coast, and the Camino de Cruces fell into disuse. The jungle reclaimed the cobbled road, leaving only the legend of a road leading to a lost city until archaeology and conservation brought it back to life."
+      },
+      {
+        "year": "2025",
+        "title": "2025 - The Colonial Transisthmian Route joins UNESCO",
+        "plaque": "World Heritage",
+        "description": "In 2025 UNESCO inscribed «The Colonial Transisthmian Route of Panamá» on the World Heritage List. It is important to clarify that what was inscribed is this historic colonial route — of which Camino de Cruces is a part — not the entire national park as a separate management unit."
       }
     ],
     "guideTitle": "Visitor Guide Recommendations",
@@ -513,8 +608,8 @@
   "practicalInfo": {
     "title": "Practical Exploration Guide",
     "petPolicy": {
-      "title": "🐕 Pet Policy & Precautions",
-      "content": "Dogs are allowed in the park. However, due to the pristine rainforest environment, please keep them on a leash at all times to avoid disturbing wildlife like howler monkeys and toucans. It is recommended to treat your dog for ticks beforehand and bring plenty of water for them."
+      "title": "🐕 Pets",
+      "content": "In general, pets are NOT allowed inside Panama's national parks managed by MiAMBIENTE. Before bringing a pet, confirm the current policy on MiAMBIENTE's official site, as it may vary by area and season."
     },
     "trailConditions": {
       "title": "🥾 Real Trail Conditions & Geological Tips",
@@ -522,7 +617,7 @@
     },
     "difficulty": {
       "title": "⛰️ Hiking Difficulty Rating",
-      "content": "Difficulty Rating: Moderate to Hard (depending on the season). Total length is about 10 km (one way) with an elevation gain of around 200 meters. Completing the classic crossing typically requires 4-6 hours of precise time, so please manage your stamina accordingly."
+      "content": "Difficulty Rating: Moderate to Hard (depending on the season). Total length is about 12.5 km (one way) with an elevation gain of around 200 meters. Completing the classic crossing typically requires 4-6 hours of precise time, so please manage your stamina accordingly."
     }
   },
   "trails": {
@@ -533,7 +628,7 @@
       {
         "name": "Camino de Cruces Trail (Historic Path)",
         "difficulty": "Difficulty: Moderate to Hard",
-        "distance": "Length: ≈ 10 km (one way)",
+        "distance": "Length: ≈ 12.5 km (one way)",
         "duration": "Time: 4-6 hours (one way)",
         "description": "The park's signature trail: it follows the original 16th-century cobblestone road that linked Panamá La Vieja with Venta de Cruces on the Chagres River near Gamboa. You walk on living history while the forest echoes with howler monkeys, toucans and sloths. A good fitness level is required and a local guide is highly recommended."
       },
@@ -560,15 +655,15 @@
     "questions": [
       {
         "q": "How much is the entrance fee for Parque Nacional Camino de Cruces?",
-        "a": "Foreign adult tickets are $5.00 USD, national residents are $3.00 USD, students and retirees are $1.00 USD, and children under 12 are free. Please ensure you purchase tickets online in advance through the official MiAMBIENTE website."
+        "a": "Foreign adult tickets are $5.00 USD, national residents are $2.00 USD, students and retirees are $1.00 USD, and children under 12 are free. Please ensure you purchase tickets online in advance through the official MiAMBIENTE website."
       },
       {
         "q": "How long does it take to walk the trail?",
-        "a": "Completing the entire classic crossing section typically takes 4-6 hours, covering about 10 km, with a moderate to hard difficulty level. It is recommended to enter the park early in the morning."
+        "a": "Completing the entire classic crossing section typically takes 4-6 hours, covering about 12.5 km, with a moderate to hard difficulty level. It is recommended to enter the park early in the morning."
       },
       {
         "q": "Are dogs allowed in the park?",
-        "a": "Yes. Dogs are allowed in the park, but they must be kept on a leash at all times to prevent disturbing wildlife, and tick prevention treatment is recommended beforehand."
+        "a": "In general, pets are NOT allowed inside Panama's national parks managed by MiAMBIENTE. Before bringing a pet, confirm the current policy on MiAMBIENTE's official site, as it may vary by area."
       },
       {
         "q": "When is the best season to visit?",
@@ -584,7 +679,7 @@
       },
       {
         "q": "What are the main hiking trails in Parque Nacional Camino de Cruces?",
-        "a": "The park's main trails are the historic Camino de Cruces Trail (about 10 km one way, 4-6 hours), El Pescador Trail (about 3 km, easy to moderate) and the Spectacled Owl Trail (Búho de Anteojos, about 2 km, moderate). Check current trail conditions at the park office before you start."
+        "a": "The park's main trails are the historic Camino de Cruces Trail (about 12.5 km one way, 4-6 hours), El Pescador Trail (about 3 km, easy to moderate) and the Spectacled Owl Trail (Búho de Anteojos, about 2 km, moderate). Check current trail conditions at the park office before you start."
       }
     ]
   },

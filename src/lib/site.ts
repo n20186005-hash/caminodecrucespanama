@@ -31,7 +31,7 @@ export const SITE = {
 
   // Google Maps 商户数据：评分与评价数
   rating: '4.5',
-  reviewCount: 5786,
+  reviewCount: 5789,
 
   // {{LATITUDE}} / {{LONGITUDE}} 与 Google 商户页一致的精确定位
   latitude: 9.0299945,

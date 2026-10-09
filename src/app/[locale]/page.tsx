@@ -2,6 +2,7 @@ import { setRequestLocale, getMessages } from 'next-intl/server';
 import { SITE } from '@/lib/site';
 import Header from '@/components/Header';
 import Hero from '@/components/Hero';
+import StatusSection from '@/components/StatusSection';
 import Breadcrumb from '@/components/Breadcrumb';
 import Intro from '@/components/Intro';
 import NearbyLandmarks from '@/components/NearbyLandmarks';
@@ -14,6 +15,7 @@ import HoursSection from '@/components/HoursSection';
 import PracticalInfo from '@/components/PracticalInfo';
 import TicketsSection from '@/components/TicketsSection';
 import TransportSection from '@/components/TransportSection';
+import TopicLinks from '@/components/TopicLinks';
 import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import MapEmbed from '@/components/MapEmbed';
@@ -122,6 +124,7 @@ export default async function HomePage({
       <Header />
       <main>
         <Hero />
+        <StatusSection />
         <Breadcrumb />
         <Intro />
         <NearbyLandmarks />
@@ -136,6 +139,7 @@ export default async function HomePage({
         <TicketsSection />
         <FacilitiesSection />
         <TransportSection />
+        <TopicLinks />
         <Gallery />
         <Reviews />
         <MapEmbed />
